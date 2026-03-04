@@ -45,8 +45,8 @@ or cleaning it first. This analysis shows exactly what that costs.
 | Duplicate transactions | 50 rows | Direct revenue double-counting |
 | Missing values | 80 cells | Breaks segmentation and reporting |
 | Inconsistent region formatting | 79 rows / 22 variants | Breaks all regional aggregation |
-| Inconsistent date formats | 60 rows / 5 formats | Breaks time-series analysis |
-| Prices stored as strings with R symbol | 40 rows | Silent calculation failures |
+| Inconsistent date formats | 59 rows / 5 formats | Breaks time-series analysis |
+| Prices stored as strings with R symbol | 11 rows | Silent calculation failures |
 | Discount rates entered as % not decimal | 9 rows | Inflates/deflates revenue |
 | Negative revenues (unreconciled returns) | 15 rows | Distorts revenue totals |
 | Inflated amounts (data entry errors) | 7 rows | Massive revenue overstatement |
