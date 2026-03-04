@@ -153,7 +153,7 @@ and business rules change.
 
 - [METHODOLOGY.md](METHODOLOGY.md) — step-by-step explanation of every cleaning decision
 - [DATA_DICTIONARY.md](DATA_DICTIONARY.md) — field definitions, formats, and validation rules
-- [Full blog article](https://yourwebsite.co.za/blog/dirty-data-case-study) — non-technical
+- [Full blog article](https://www.novadataanalytics.co.za/post/how-dirty-data-cost-a-retailer-r3-million-in-phantom-revenue) — non-technical
   narrative version for business audiences
 
 ---
