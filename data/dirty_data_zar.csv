@@ -1,0 +1,1051 @@
+Transaction_ID,Date,Customer_ID,Product_SKU,Product_Name,Category,Region,Channel,Payment_Method,Quantity,Unit_Price,Discount_Rate,Revenue
+TXN-00353,2024-02-14,CUST-1767,SKU-005,Backpack,Accessories,West,Marketplace,Bank Transfer,1,1099.0,0.0,1099.0
+TXN-00690,2024-02-22,CUST-1391,SKU-004,Coffee Maker,Kitchen,North,Marketplace,Credit Card,2,2999.0,,5698.09
+TXN-00486,2024-07-22,CUST-2928,SKU-002,Running Shoes,Footwear,West,In-Store,Credit Card,3,1799.0,0.2,4317.6
+TXN-00389,2024-05-20,CUST-1920,SKU-004,Coffee Maker,Kitchen,Online,In-Store,PayPal,3,2999.0,0.0,8997.0
+TXN-00032,2024-02-08,CUST-2815,SKU-008,Protein Powder,Health,Online,Website,Credit Card,2,599.0,0.2,958.34
+TXN-00443,2024-06-10,CUST-4793,SKU-005,Backpack,Accessories,West,In-Store,Debit Card,3,1099.0,0.2,2637.6
+TXN-00199,2024-05-26,CUST-1314,SKU-001,Wireless Earbuds,Electronics,North,Marketplace,Bank Transfer,1,1299.0,0.0,1299.0
+TXN-00426,2024-09-11,CUST-4903,SKU-003,Yoga Mat,Sports,East,In-Store,PayPal,1,649.0,0.0,649.0
+TXN-00108,2024-10-28,CUST-2756,SKU-008,Protein Powder,Health,East,Website,Credit Card,4,599.0,0.0,2396.0
+TXN-00715,2024-11-01,CUST-1634,SKU-010,Laptop Stand,Electronics,East,Website,PayPal,4,749.0,0.15,2546.66
+TXN-00553,2024-12-16,CUST-4604,SKU-006,Sunglasses,Accessories,South,Marketplace,Bank Transfer,5,799.0,0.0,3995.0
+TXN-00676,2024-10-19,CUST-1537,SKU-005,Backpack,Accessories,Online,Mobile App,Credit Card,4,1099.0,0.0,4396.0
+TXN-00159,2024-07-02,CUST-1248,SKU-006,Sunglasses,Accessories,West,In-Store,PayPal,5,799.0,0.15,3395.75
+TXN-00476,2024-08-12,CUST-4000,SKU-001,Wireless Earbuds,Electronics,West,Mobile App,Bank Transfer,1,1299.0,0.05,1234.04
+TXN-00424,14-Feb-2024,CUST-4787,SKU-004,Coffee Maker,Kitchen,West,Website,Bank Transfer,1,2999.0,0.0,2999.0
+TXN-00270,2024-07-24,CUST-3048,SKU-004,Coffee Maker,Kitchen,north,Website,Credit Card,5,2999.0,0.1,13495.57
+TXN-00618,2024-10-28,CUST-4003,SKU-006,Sunglasses,Accessories,East,Mobile App,Bank Transfer,4,799.0,0.0,3196.0
+TXN-00484,2024-08-06,CUST-1358,SKU-001,Wireless Earbuds,Electronics,EAST,Marketplace,PayPal,3,R1299.0,0.0,3897.0
+TXN-00885,2024-04-13,CUST-1723,SKU-008,Protein Powder,Health,Online,Website,Bank Transfer,3,599.0,0.15,1527.38
+TXN-00651,2024-04-23,CUST-2518,SKU-002,Running Shoes,Footwear,North,Website,Bank Transfer,1,1799.0,0.0,1799.0
+TXN-00245,2024-12-15,CUST-4963,SKU-008,Protein Powder,Health,East,In-Store,Credit Card,1,599.0,0.2,479.17
+TXN-00848,2024-03-11,CUST-3630,SKU-007,Smart Watch,Electronics,West,Marketplace,Bank Transfer,2,4499.0,0.0,8998.0
+TXN-00983,2024-12-10,CUST-4922,SKU-010,Laptop Stand,Electronics,North,Mobile App,Debit Card,2,749.0,0.05,-1423.09
+TXN-00829,2024-04-24,CUST-1588,SKU-008,Protein Powder,Health,Online,In-Store,Debit Card,4,599.0,0.0,2396.0
+TXN-00571,2024-11-03,CUST-3482,SKU-002,Running Shoes,Footwear,East,Marketplace,Bank Transfer,4,1799.0,0.15,6116.6
+TXN-00060,2024-06-18,CUST-3552,SKU-007,Smart Watch,Electronics,EAST,Website,Debit Card,1,4499.0,0.15,-3824.13
+TXN-00291,2024-01-05,CUST-2222,SKU-003,Yoga Mat,Sports,Online,Website,Debit Card,3,649.0,0.0,1947.0
+TXN-00071,2024-10-07,CUST-2826,SKU-010,Laptop Stand,Electronics,South,Marketplace,Bank Transfer,5,749.0,0.05,3557.71
+TXN-00345,2024-04-16,CUST-3404,SKU-003,Yoga Mat,Sports,South,Marketplace,Credit Card,3,649.0,0.0,135.0
+TXN-00185,2024-05-25,CUST-3777,SKU-006,Sunglasses,Accessories,online,Marketplace,Debit Card,4,799.0,0.0,3196.0
+TXN-00142,2024-02-07,CUST-2809,SKU-005,Backpack,Accessories,East,In-Store,Bank Transfer,5,1099.0,0.0,5495.0
+TXN-00391,06-Jul-2024,CUST-3220,SKU-005,Backpack,Accessories,North,Marketplace,PayPal,5,1099.0,0.2,4396.0
+TXN-00492,2024-01-18,CUST-3056,SKU-005,Backpack,Accessories,Online,Mobile App,Credit Card,1,R1099.0,0.05,1044.05
+TXN-00827,2024-04-11,CUST-3920,SKU-005,Backpack,Accessories,Online,Website,Bank Transfer,3,1099.0,0.2,2637.6
+TXN-00102,03/07/2024,CUST-1734,SKU-004,Coffee Maker,Kitchen,East,Website,PayPal,3,2999.0,0.0,8997.0
+TXN-00750,2024-12-23,CUST-1534,SKU-007,Smart Watch,Electronics,South,Marketplace,PayPal,5,4499.0,0.05,21370.21
+TXN-00552,2024-10-18,CUST-3778,SKU-007,Smart Watch,Electronics,West,Mobile App,Bank Transfer,5,4499.0,0.05,-21370.21
+TXN-00307,2024-04-21,CUST-3368,SKU-005,Backpack,Accessories,North,Website,Bank Transfer,1,1099.0,0.15,934.15
+TXN-00987,2024-06-08,CUST-3814,SKU-008,Protein Powder,Health,West,Mobile App,Bank Transfer,5,599.0,0.15,2545.79
+TXN-00322,2024-03-09,CUST-2590,SKU-007,Smart Watch,Electronics,South,In-Store,PayPal,5,4499.0,0.1,20245.57
+TXN-00800,2024-04-17,CUST-3506,SKU-009,Water Bottle,Sports,,Website,Credit Card,2,349.0,0.15,593.3
+TXN-00731,2024-02-06,CUST-4417,SKU-009,Water Bottle,Sports,East,Website,PayPal,1,349.0,0.15,21.25
+TXN-00678,2024-01-05,CUST-1723,SKU-003,Yoga Mat,Sports,West,Marketplace,PayPal,4,649.0,0.2,2076.8
+TXN-00654,2024-09-21,CUST-3860,SKU-001,Wireless Earbuds,Electronics,South,Mobile App,Credit Card,5,1299.0,0.1,5845.43
+TXN-00077,2024-07-18,CUST-4495,SKU-001,Wireless Earbuds,Electronics,,Mobile App,Bank Transfer,3,1299.0,0.0,3897.0
+TXN-00193,2024-06-22,CUST-1907,SKU-007,Smart Watch,Electronics,East,Mobile App,Credit Card,3,4499.0,0.15,11472.38
+TXN-00087,2024-12-19,CUST-4402,SKU-004,Coffee Maker,Kitchen,S.,Website,Debit Card,1,R2999.0,0.1,2699.09
+TXN-00459,2024-01-14,CUST-2306,SKU-007,Smart Watch,Electronics,Online,Mobile App,Credit Card,3,4499.0,0.0,13497.0
+TXN-00913,2024-12-20,CUST-3329,SKU-006,Sunglasses,Accessories,North,In-Store,PayPal,2,799.0,0.0,1598.0
+TXN-00919,2024-09-15,CUST-1137,SKU-001,Wireless Earbuds,Electronics,West,Marketplace,Bank Transfer,1,1299.0,0.05,1234.04
+TXN-00733,2024-11-16,CUST-4880,SKU-009,Water Bottle,Sports,South,Marketplace,Credit Card,2,349.0,0.1,628.2
+TXN-00310,2024-02-11,CUST-3796,SKU-008,Protein Powder,Health,Online,Mobile App,Debit Card,4,599.0,0.05,2276.17
+TXN-00744,2024-02-10,CUST-4195,SKU-001,Wireless Earbuds,Electronics,North,In-Store,Debit Card,5,1299.0,0.05,6170.21
+TXN-00874,2024-12-22,CUST-1754,SKU-010,Laptop Stand,Electronics,East,In-Store,Bank Transfer,2,749.0,0.0,1498.0
+TXN-00399,2024-02-08,CUST-3595,SKU-007,Smart Watch,Electronics,North,Marketplace,Debit Card,4,4499.0,0.05,17096.17
+TXN-00617,2024-10-05,CUST-4661,SKU-001,Wireless Earbuds,Electronics,Online,Marketplace,PayPal,5,1299.0,0.0,6495.0
+TXN-00050,2024-06-06,CUST-2493,SKU-007,Smart Watch,Electronics,North,In-Store,PayPal,2,4499.0,0.0,8998.0
+TXN-00200,2024-01-22,,SKU-010,Laptop Stand,Electronics,Online,Mobile App,Debit Card,5,749.0,0.2,2996.0
+TXN-00599,2024-07-26,CUST-2773,SKU-007,Smart Watch,Electronics,East,Website,Bank Transfer,4,4499.0,0.15,15296.66
+TXN-00970,2024-09-05,CUST-2687,SKU-009,Water Bottle,Sports,East,Mobile App,Credit Card,3,349.0,0.0,1047.0
+TXN-00883,2024-10-01,CUST-4829,SKU-008,Protein Powder,Health,East,In-Store,Debit Card,1,599.0,0.1,539.09
+TXN-00429,2024-01-29,CUST-3046,SKU-008,Protein Powder,Health,Online,Mobile App,Debit Card,5,599.0,0.0,2995.0
+TXN-00498,2024-05-26,CUST-4553,SKU-010,Laptop Stand,Electronics,Online,In-Store,Bank Transfer,1,749.0,0.2,599.17
+TXN-00604,2024-10-11,CUST-1579,SKU-001,Wireless Earbuds,Electronics,North,Website,Credit Card,5,R1299.0,0.2,5196.0
+TXN-00011,2024-05-18,CUST-4790,SKU-003,Yoga Mat,Sports,Online,Mobile App,Debit Card,4,649.0,0.05,2466.2
+TXN-00889,2024-01-19,CUST-2389,SKU-009,Water Bottle,Sports,N.,In-Store,Credit Card,4,349.0,0.0,1396.0
+TXN-00671,03-Oct-2024,CUST-1133,SKU-009,Water Bottle,Sports,Online,In-Store,Bank Transfer,4,349.0,0.05,1326.2
+TXN-00938,2024-12-06,CUST-3854,SKU-006,Sunglasses,Accessories,Online,Marketplace,Bank Transfer,4,799.0,0.1,198.0
+TXN-00929,2024-11-28,CUST-2959,SKU-004,Coffee Maker,Kitchen,Online,Mobile App,,5,2999.0,0.0,14995.0
+TXN-00558,2024-06-18,CUST-4973,SKU-008,Protein Powder,Health,East,Website,PayPal,3,599.0,0.0,1797.0
+TXN-00637,2024-04-13,CUST-3141,SKU-003,Yoga Mat,Sports,Online,Marketplace,PayPal,1,649.0,0.0,649.0
+TXN-00834,2024-11-13,CUST-1998,SKU-010,Laptop Stand,Electronics,ONLINE,Mobile App,Bank Transfer,4,749.0,0.0,2996.0
+TXN-00372,2024-05-31,CUST-2703,SKU-001,Wireless Earbuds,Electronics,North,Website,PayPal,4,1299.0,0.0,5196.0
+TXN-00835,2024-04-16,CUST-4333,SKU-007,Smart Watch,Electronics,Online,Marketplace,Bank Transfer,1,4499.0,0.0,4499.0
+TXN-00583,2024-10-28,CUST-3238,SKU-004,Coffee Maker,Kitchen,Online,Mobile App,PayPal,3,2999.0,0.2,479.98
+TXN-00334,2024-10-04,CUST-3628,SKU-009,Water Bottle,Sports,North,Website,Credit Card,4,349.0,0.0,1396.0
+TXN-00946,2024-06-18,CUST-3651,SKU-001,Wireless Earbuds,Electronics,East,Marketplace,Debit Card,5,1299.0,0.1,5845.43
+TXN-00211,2024-09-26,CUST-1154,SKU-009,Water Bottle,Sports,East,Mobile App,Bank Transfer,5,349.0,0.2,1396.0
+TXN-00875,2024-08-06,CUST-3835,SKU-002,Running Shoes,Footwear,East,In-Store,PayPal,4,1799.0,0.0,7196.0
+TXN-00458,2024-10-05,CUST-4200,SKU-007,Smart Watch,Electronics,West,In-Store,Debit Card,3,4499.0,0.05,12822.13
+TXN-00089,2024-11-27,CUST-2397,SKU-006,Sunglasses,Accessories,North,Marketplace,Bank Transfer,1,799.0,0.1,719.1
+TXN-00880,2024-11-30,CUST-3622,SKU-001,Wireless Earbuds,Electronics,North,Website,Bank Transfer,4,1299.0,0.0,5196.0
+TXN-00351,2024-05-17,CUST-1631,SKU-004,Coffee Maker,Kitchen,West,Mobile App,Bank Transfer,1,2999.0,0.0,2999.0
+TXN-00219,2024-07-21,CUST-3056,SKU-001,Wireless Earbuds,Electronics,Est,Mobile App,Bank Transfer,4,1299.0,0.0,5196.0
+TXN-00414,2024-05-21,CUST-3640,SKU-006,Sunglasses,Accessories,NORTH,Mobile App,Debit Card,2,799.0,,1598.0
+TXN-00278,2024-07-30,CUST-3828,SKU-006,Sunglasses,Accessories,South,Marketplace,Bank Transfer,4,799.0,0.0,3196.0
+TXN-00960,2024-08-25,CUST-1919,SKU-008,Protein Powder,Health,North,Website,PayPal,5,599.0,0.15,2545.79
+TXN-00926,2024-01-29,CUST-3108,SKU-010,Laptop Stand,Electronics,East,Website,Credit Card,3,749.0,0.15,1909.88
+TXN-00214,2024-05-02,CUST-2267,SKU-008,Protein Powder,Health,West,Mobile App,Debit Card,2,599.0,0.1,1078.17
+TXN-00097,2024-01-09,CUST-1381,SKU-008,Protein Powder,Health,East,Mobile App,Bank Transfer,4,599.0,0.2,1916.83
+TXN-00079,2024-11-14,CUST-3187,SKU-003,Yoga Mat,Sports,North,Marketplace,Credit Card,4,649.0,0.0,2596.0
+TXN-00704,2024-03-18,CUST-1203,SKU-004,Coffee Maker,Kitchen,Online,Website,PayPal,3,2999.0,0.0,8997.0
+TXN-00137,2024-02-16,CUST-2777,SKU-004,Coffee Maker,Kitchen,North,Website,Bank Transfer,3,2999.0,0.0,8997.0
+TXN-00209,2024-07-04,CUST-2265,SKU-009,Water Bottle,Sports,South,Mobile App,Debit Card,3,349.0,0.0,1047.0
+TXN-00523,2024-06-30,CUST-1914,SKU-006,Sunglasses,Accessories,East,Marketplace,Debit Card,1,799.0,0.0,799.0
+TXN-00838,2024-02-05,CUST-3450,SKU-003,Yoga Mat,Sports,North,Marketplace,Debit Card,3,649.0,0.05,1849.65
+TXN-00733,2024-11-16,CUST-4880,SKU-009,Water Bottle,Sports,South,Marketplace,Credit Card,2,349.0,0.1,628.2
+TXN-00569,2024-09-12,CUST-1017,SKU-010,Laptop Stand,Electronics,ONLINE,Website,Bank Transfer,5,749.0,0.0,3745.0
+TXN-00261,2024-05-16,CUST-2841,SKU-004,Coffee Maker,Kitchen,South,Mobile App,Credit Card,4,2999.0,0.0,11996.0
+TXN-00468,2024-12-05,CUST-2620,SKU-002,Running Shoes,Footwear,Online,Website,Debit Card,3,1799.0,0.15,4587.45
+TXN-00040,2024-09-24,CUST-2295,SKU-007,Smart Watch,Electronics,East,Mobile App,Debit Card,5,4499.0,0.1,20245.57
+TXN-00031,2024-08-17,CUST-1574,SKU-004,Coffee Maker,Kitchen,West,Mobile App,Debit Card,2,2999.0,0.1,5398.17
+TXN-00698,2024-09-30,CUST-1034,SKU-006,Sunglasses,Accessories,West,Marketplace,Debit Card,3,799.0,0.05,2277.15
+TXN-00452,2024-11-26,CUST-2816,SKU-001,Wireless Earbuds,Electronics,South,Website,Debit Card,1,1299.0,0.0,1299.0
+TXN-00055,2024-06-17,CUST-2141,SKU-001,Wireless Earbuds,Electronics,North,In-Store,Debit Card,2,1299.0,0.05,2468.09
+TXN-00024,2024-06-08,CUST-2634,SKU-009,Water Bottle,Sports,East,Marketplace,Bank Transfer,2,349.0,0.15,593.3
+TXN-00113,2024-01-31,CUST-1679,SKU-005,Backpack,Accessories,East,In-Store,Bank Transfer,2,1099.0,0.0,2198.0
+TXN-00114,2024-06-04,CUST-3866,SKU-002,Running Shoes,Footwear,west,In-Store,Bank Transfer,4,1799.0,0.15,61166.0
+TXN-00110,2024-01-02,CUST-2673,SKU-009,Water Bottle,Sports,West,Marketplace,Debit Card,1,349.0,0.0,349.0
+TXN-00507,2024-07-03,CUST-3886,SKU-001,Wireless Earbuds,Electronics,South,In-Store,Debit Card,4,1299.0,0.0,5196.0
+TXN-00967,2024-02-09,CUST-3104,SKU-005,Backpack,Accessories,South,Mobile App,Credit Card,5,1099.0,0.15,4670.75
+TXN-00950,2024-04-09,CUST-3389,SKU-001,Wireless Earbuds,Electronics,Online,Mobile App,Debit Card,5,1299.0,0.15,5520.79
+TXN-00004,2024-01-04,CUST-4108,SKU-008,Protein Powder,Health,South,Marketplace,Debit Card,5,599.0,0.0,2995.0
+TXN-00276,2024-09-25,CUST-3576,SKU-010,Laptop Stand,Electronics,Online,Marketplace,PayPal,4,749.0,0.0,2996.0
+TXN-00657,2024-05-25,CUST-3974,SKU-002,Running Shoes,Footwear,Online,In-Store,Debit Card,1,1799.0,0.1,1619.1
+TXN-00785,2024-01-13,CUST-1732,SKU-007,Smart Watch,Electronics,West,Mobile App,Bank Transfer,3,4499.0,0.05,12822.13
+TXN-00855,2024-01-06,CUST-2920,SKU-006,Sunglasses,Accessories,West,Marketplace,Debit Card,5,799.0,0.2,3196.0
+TXN-00760,2024-12-22,CUST-3531,SKU-005,Backpack,Accessories,East,Website,Bank Transfer,2,1099.0,0.2,1758.4
+TXN-00797,2024-02-17,CUST-4147,SKU-010,Laptop Stand,Electronics,East,In-Store,Debit Card,3,749.0,0.0,2247.0
+TXN-00387,2024-04-09,CUST-4339,SKU-001,Wireless Earbuds,Electronics,West,Marketplace,Bank Transfer,4,1299.0,0.0,5196.0
+TXN-00395,2024-01-31,CUST-3335,SKU-004,Coffee Maker,Kitchen,East,In-Store,PayPal,2,2999.0,0.2,4798.34
+TXN-00487,2024-07-08,CUST-4626,SKU-009,Water Bottle,Sports,West,In-Store,PayPal,4,349.0,0.0,1396.0
+TXN-00615,2024-05-23,CUST-4517,SKU-010,Laptop Stand,Electronics,Sth,Mobile App,,1,749.0,0.2,599.17
+TXN-00878,2024-03-14,CUST-3214,SKU-003,Yoga Mat,Sports,West,Mobile App,Credit Card,4,649.0,0.0,2596.0
+TXN-00175,2024-06-17,CUST-3744,SKU-010,Laptop Stand,Electronics,North,Marketplace,Debit Card,5,749.0,0.1,3370.57
+TXN-00918,2024-10-29,CUST-4875,SKU-007,Smart Watch,Electronics,South,Website,Bank Transfer,5,4499.0,0.0,22495.0
+TXN-00059,23-Sep-2024,CUST-4791,SKU-001,Wireless Earbuds,Electronics,Online,Mobile App,Debit Card,4,1299.0,0.0,5196.0
+TXN-00266,2024-02-25,CUST-2765,SKU-005,Backpack,Accessories,South,In-Store,Debit Card,5,1099.0,0.0,5495.0
+TXN-00064,2024-04-19,CUST-3093,SKU-008,Protein Powder,Health,West,Mobile App,Credit Card,4,599.0,0.15,2036.66
+TXN-00790,2024-04-02,CUST-1481,SKU-008,Protein Powder,Health,South,Mobile App,Credit Card,3,599.0,0.15,1527.38
+TXN-00262,2024-11-11,CUST-2712,SKU-001,Wireless Earbuds,Electronics,South,Mobile App,Debit Card,3,1299.0,0.05,3702.13
+TXN-00101,2024-10-28,CUST-5000,SKU-004,Coffee Maker,Kitchen,Online,In-Store,Credit Card,4,2999.0,0.0,11996.0
+TXN-00028,2024-05-04,CUST-4213,SKU-010,Laptop Stand,Electronics,West,Marketplace,PayPal,5,749.0,0.05,3557.71
+TXN-00300,2024-04-22,CUST-4921,SKU-006,Sunglasses,Accessories,South,Marketplace,PayPal,5,799.0,0.0,3995.0
+TXN-00616,2024-09-16,CUST-3587,SKU-002,Running Shoes,Footwear,North,Marketplace,PayPal,1,1799.0,0.0,1799.0
+TXN-00179,2024-12-25,CUST-4122,SKU-001,Wireless Earbuds,Electronics,East,In-Store,Debit Card,2,1299.0,0.0,2598.0
+TXN-00934,2024-02-27,CUST-3855,SKU-002,Running Shoes,Footwear,South,Marketplace,PayPal,2,1799.0,0.0,3598.0
+TXN-00779,2024-01-22,CUST-3490,SKU-007,Smart Watch,Electronics,West,In-Store,Bank Transfer,4,4499.0,0.2,14396.83
+TXN-00140,2024-07-14,CUST-3538,SKU-003,Yoga Mat,Sports,South,Marketplace,PayPal,1,649.0,0.1,584.1
+TXN-00804,2024-11-16,CUST-4263,SKU-002,Running Shoes,Footwear,North,Mobile App,Bank Transfer,1,1799.0,0.05,1709.05
+TXN-00169,2024-02-03,CUST-1516,SKU-006,Sunglasses,Accessories,East,In-Store,Bank Transfer,5,799.0,0.0,3995.0
+TXN-00067,2024-02-07,CUST-2865,SKU-008,Protein Powder,Health,West,Mobile App,Bank Transfer,5,599.0,0.2,2396.0
+TXN-00257,2024-11-24,CUST-4918,SKU-008,Protein Powder,Health,East,Marketplace,PayPal,5,599.0,0.0,2995.0
+TXN-00068,2024-03-16,CUST-3687,SKU-008,Protein Powder,Health,North,Website,Bank Transfer,4,599.0,0.0,2396.0
+TXN-00995,2024-02-04,CUST-3040,SKU-002,Running Shoes,Footwear,North,Mobile App,Bank Transfer,1,1799.0,0.2,1439.2
+TXN-00013,2024-06-10,CUST-1870,SKU-002,Running Shoes,Footwear,West,Marketplace,Bank Transfer,2,1799.0,0.1,3238.2
+TXN-00532,2024-12-12,CUST-1016,SKU-009,Water Bottle,Sports,South,Mobile App,Debit Card,2,349.0,0.0,698.0
+TXN-00320,2024-06-02,CUST-2541,SKU-007,Smart Watch,Electronics,South,Marketplace,PayPal,4,4499.0,0.0,17996.0
+TXN-00985,2024-09-23,CUST-1556,SKU-002,Running Shoes,Footwear,West,In-Store,Debit Card,4,1799.0,0.0,7196.0
+TXN-00867,2024-01-22,CUST-1398,SKU-006,Sunglasses,Accessories,online,In-Store,Bank Transfer,5,799.0,15.0,3395.75
+TXN-00577,2024-01-13,CUST-2560,SKU-001,Wireless Earbuds,Electronics,South,Website,Credit Card,5,1299.0,0.0,6495.0
+TXN-00335,2024-03-11,CUST-4451,SKU-001,Wireless Earbuds,Electronics,South,Website,PayPal,1,1299.0,0.05,85.49
+TXN-00287,2024-07-30,CUST-2352,SKU-004,Coffee Maker,Kitchen,West,Website,PayPal,1,2999.0,0.0,2999.0
+TXN-00912,2024-04-09,CUST-3588,SKU-003,Yoga Mat,Sports,East,In-Store,PayPal,4,649.0,0.15,2206.6
+TXN-00324,2024/11/05,CUST-3469,SKU-005,Backpack,Accessories,North,Website,PayPal,4,1099.0,0.15,3736.6
+TXN-00891,2024-01-19,CUST-4012,SKU-010,Laptop Stand,Electronics,South,Marketplace,Credit Card,2,749.0,0.0,1498.0
+TXN-00537,23-Nov-2024,CUST-2047,SKU-006,Sunglasses,Accessories,Online,Website,Credit Card,1,799.0,0.05,759.05
+TXN-00693,2024-03-28,CUST-1117,SKU-003,Yoga Mat,Sports,North,In-Store,Debit Card,5,649.0,0.2,2596.0
+TXN-00650,2024-02-16,CUST-4372,SKU-007,Smart Watch,Electronics,South,Marketplace,Bank Transfer,1,4499.0,0.2,3599.17
+TXN-00529,2024-03-27,CUST-3360,SKU-005,Backpack,Accessories,South,Marketplace,Credit Card,2,1099.0,0.2,1758.4
+TXN-00514,2024-06-27,CUST-2880,SKU-007,Smart Watch,Electronics,East,Mobile App,Bank Transfer,4,4499.0,0.2,14396.83
+TXN-00586,2024-06-18,CUST-2910,SKU-010,Laptop Stand,Electronics,South,Website,PayPal,3,749.0,0.0,2247.0
+TXN-00003,2024-01-14,CUST-3298,SKU-004,Coffee Maker,Kitchen,South,Marketplace,PayPal,5,2999.0,0.1,13495.57
+TXN-00446,2024-04-16,CUST-2851,SKU-009,Water Bottle,Sports,East,Marketplace,Debit Card,3,349.0,0.2,837.6
+TXN-00238,2024-11-22,CUST-2663,SKU-001,Wireless Earbuds,Electronics,East,Mobile App,Credit Card,1,1299.0,0.15,76.49
+TXN-00496,2024-01-07,CUST-4221,SKU-009,Water Bottle,Sports,Online,Marketplace,Credit Card,4,349.0,0.2,1116.8
+TXN-00782,2024-05-29,CUST-2800,SKU-009,Water Bottle,Sports,West,In-Store,Debit Card,1,349.0,0.0,3490.0
+TXN-00328,2024-05-13,CUST-2473,SKU-009,Water Bottle,Sports,Online,Marketplace,Bank Transfer,3,349.0,0.0,1047.0
+TXN-00548,2024-03-11,CUST-3717,SKU-001,Wireless Earbuds,Electronics,South,In-Store,Debit Card,1,1299.0,0.2,1039.17
+TXN-00859,2024-11-11,CUST-2150,SKU-005,Backpack,Accessories,East,In-Store,Credit Card,3,1099.0,0.0,3297.0
+TXN-00530,2024-11-20,CUST-2758,SKU-003,Yoga Mat,Sports,Wst,Marketplace,Bank Transfer,5,649.0,0.05,3082.75
+TXN-00347,2024-06-26,CUST-1219,SKU-003,Yoga Mat,Sports,North,Marketplace,PayPal,1,649.0,0.1,584.1
+TXN-00488,2024-08-13,CUST-2904,SKU-008,Protein Powder,Health,,Mobile App,Debit Card,1,599.0,,599.0
+TXN-00584,2024-12-15,CUST-1305,SKU-005,Backpack,Accessories,South,Mobile App,Credit Card,4,1099.0,0.0,0.0
+TXN-00594,2024-02-12,CUST-4883,SKU-004,Coffee Maker,Kitchen,North,Mobile App,Credit Card,3,2999.0,0.1,8097.26
+TXN-00588,2024-04-22,CUST-4919,SKU-002,Running Shoes,Footwear,SOUTH,Website,PayPal,3,1799.0,0.1,4857.3
+TXN-00309,2024-03-10,CUST-4136,SKU-005,Backpack,Accessories,Wst,In-Store,Bank Transfer,4,1099.0,0.0,4396.0
+TXN-00132,2024-08-30,CUST-3888,SKU-001,Wireless Earbuds,Electronics,West,Marketplace,PayPal,3,1299.0,0.15,3312.39
+TXN-00994,2024-09-07,CUST-3036,SKU-002,Running Shoes,Footwear,South,Mobile App,Credit Card,1,1799.0,0.0,120.0
+TXN-00232,2024-07-01,CUST-4531,SKU-001,Wireless Earbuds,Electronics,north,In-Store,Debit Card,2,1299.0,0.0,2598.0
+TXN-00630,2024-09-02,CUST-2962,SKU-002,Running Shoes,Footwear,South,Mobile App,Bank Transfer,4,1799.0,0.15,6116.6
+TXN-00602,2024-12-04,CUST-1126,SKU-008,Protein Powder,Health,West,Mobile App,PayPal,4,599.0,0.05,2276.17
+TXN-00663,2024-06-29,CUST-3115,SKU-004,Coffee Maker,Kitchen,Online,Website,Debit Card,3,2999.0,0.05,-8547.13
+TXN-00692,2024-05-06,CUST-4021,SKU-007,Smart Watch,Electronics,East,Marketplace,PayPal,3,4499.0,0.0,899.97
+TXN-00916,2024-09-24,CUST-3003,SKU-002,Running Shoes,Footwear,South,Marketplace,Bank Transfer,4,1799.0,0.2,5756.8
+TXN-00315,2024-11-02,CUST-3752,SKU-010,Laptop Stand,Electronics,North,Mobile App,Credit Card,1,749.0,0.05,-711.54
+TXN-00107,2024-10-12,CUST-4131,SKU-002,Running Shoes,Footwear,West,Mobile App,Bank Transfer,2,1799.0,0.0,3598.0
+TXN-00824,2024-02-06,CUST-2275,SKU-010,Laptop Stand,Electronics,Online,In-Store,,2,749.0,,1498.0
+TXN-00056,2024-10-01,CUST-2356,SKU-009,Water Bottle,Sports,North,Website,Debit Card,4,349.0,0.15,1186.6
+TXN-00121,2024-06-14,CUST-1474,SKU-002,Running Shoes,Footwear,West,Website,Bank Transfer,3,1799.0,0.0,5397.0
+TXN-00371,2024-12-13,CUST-3410,SKU-006,Sunglasses,Accessories,Online,Mobile App,Debit Card,4,799.0,0.05,3036.2
+TXN-00026,2024-11-19,CUST-1241,SKU-001,Wireless Earbuds,Electronics,South,Website,Credit Card,1,1299.0,0.15,1104.13
+TXN-00073,2024-05-26,CUST-1960,SKU-005,Backpack,Accessories,East,In-Store,Debit Card,4,1099.0,0.0,4396.0
+TXN-00161,2024-10-16,CUST-1840,SKU-006,Sunglasses,Accessories,North,Mobile App,PayPal,2,R799.0,0.0,110.0
+TXN-00045,2024-02-29,CUST-4644,SKU-002,Running Shoes,Footwear,North,Mobile App,Debit Card,2,1799.0,0.0,3598.0
+TXN-00297,2024-05-16,CUST-4907,SKU-007,Smart Watch,Electronics,East,In-Store,Credit Card,2,4499.0,0.05,8548.09
+TXN-00329,2024-06-12,CUST-4745,SKU-002,Running Shoes,Footwear,Sth,In-Store,Debit Card,4,1799.0,0.2,5756.8
+TXN-00248,2024-10-20,CUST-2511,SKU-001,Wireless Earbuds,Electronics,WEST,Mobile App,Credit Card,3,1299.0,0.1,3507.26
+TXN-00337,2024-10-09,CUST-2684,SKU-001,Wireless Earbuds,Electronics,North,Website,Debit Card,1,1299.0,0.1,1169.09
+TXN-00352,2024-02-16,CUST-1021,SKU-006,Sunglasses,Accessories,East,Marketplace,Debit Card,3,799.0,0.0,2397.0
+TXN-00362,2024-12-21,CUST-3592,SKU-006,Sunglasses,Accessories,West,Mobile App,Debit Card,3,799.0,0.15,2037.45
+TXN-00138,2024-01-24,CUST-2328,SKU-003,Yoga Mat,Sports,North,In-Store,Debit Card,3,649.0,0.0,1947.0
+TXN-00961,2024-11-21,CUST-2935,SKU-005,Backpack,Accessories,North,In-Store,Bank Transfer,3,1099.0,0.15,2802.45
+TXN-00421,2024-10-01,CUST-3202,SKU-007,Smart Watch,Electronics,Online,Mobile App,Debit Card,1,4499.0,0.15,3824.13
+TXN-00382,2024-12-10,CUST-3891,SKU-008,Protein Powder,Health,East,Website,PayPal,5,599.0,0.0,2995.0
+TXN-00695,2024-11-01,CUST-2870,SKU-009,Water Bottle,Sports,Online,Marketplace,Debit Card,2,349.0,0.1,628.2
+TXN-00540,2024-02-21,CUST-3713,SKU-005,Backpack,Accessories,Online,In-Store,PayPal,4,1099.0,0.15,3736.6
+TXN-00450,2024-03-12,CUST-1497,SKU-002,Running Shoes,Footwear,North,Website,PayPal,4,1799.0,0.0,7196.0
+TXN-00623,2024-07-03,CUST-2589,SKU-004,Coffee Maker,Kitchen,West,Marketplace,Credit Card,5,2999.0,0.2,11996.0
+TXN-00210,2024-03-11,CUST-1634,SKU-008,Protein Powder,Health,North,In-Store,Credit Card,2,599.0,0.0,1198.0
+TXN-00555,2024-10-16,CUST-1917,SKU-009,Water Bottle,Sports,East,Website,Bank Transfer,5,349.0,0.15,1483.25
+TXN-00568,12-10-2024,CUST-3411,SKU-007,Smart Watch,Electronics,North,Marketplace,Bank Transfer,1,4499.0,0.15,3824.13
+TXN-00482,2024-10-10,CUST-3957,SKU-004,Coffee Maker,Kitchen,Online,In-Store,Debit Card,4,2999.0,0.15,10196.66
+TXN-00433,2024-06-12,CUST-2111,SKU-004,Coffee Maker,Kitchen,North,In-Store,Credit Card,4,2999.0,0.15,101966.6
+TXN-00627,2024-01-04,CUST-3055,SKU-008,Protein Powder,Health,South,Marketplace,PayPal,4,599.0,0.1,2156.34
+TXN-00061,2024-07-28,CUST-2336,SKU-009,Water Bottle,Sports,West,In-Store,PayPal,3,349.0,0.15,889.95
+TXN-00622,2024-02-02,CUST-2082,SKU-004,Coffee Maker,Kitchen,East,Mobile App,Credit Card,4,2999.0,0.0,11996.0
+TXN-00756,2024-03-16,CUST-4558,SKU-001,Wireless Earbuds,Electronics,East,Website,Debit Card,2,1299.0,0.1,2338.17
+TXN-00093,2024-08-25,CUST-3334,SKU-008,Protein Powder,Health,Online,Marketplace,Debit Card,2,599.0,0.2,958.34
+TXN-00902,2024-06-03,CUST-2424,SKU-010,Laptop Stand,Electronics,West,Website,PayPal,1,749.0,0.15,636.63
+TXN-00463,2024-12-24,CUST-2440,SKU-010,Laptop Stand,Electronics,Online,Mobile App,PayPal,1,749.0,,636.63
+TXN-00667,2024-05-07,CUST-4425,SKU-004,Coffee Maker,Kitchen,Online,In-Store,PayPal,2,2999.0,0.2,4798.34
+TXN-00977,2024-08-28,CUST-1487,SKU-009,Water Bottle,Sports,East,Website,Credit Card,5,349.0,0.0,1745.0
+TXN-00478,2024-01-18,CUST-2207,SKU-003,Yoga Mat,Sports,North,In-Store,Debit Card,4,649.0,0.0,2596.0
+TXN-00333,2024-03-27,CUST-4001,SKU-008,Protein Powder,Health,East,Mobile App,PayPal,4,599.0,0.05,2276.17
+TXN-00939,2024-06-05,CUST-1703,SKU-005,Backpack,Accessories,East,Mobile App,Bank Transfer,5,1099.0,0.0,5495.0
+TXN-00701,2024-02-10,CUST-2729,SKU-007,Smart Watch,Electronics,South,In-Store,Debit Card,2,4499.0,0.0,8998.0
+TXN-00465,2024-01-11,CUST-3156,SKU-004,Coffee Maker,Kitchen,West,Website,Debit Card,5,2999.0,0.0,14995.0
+TXN-00356,2024/05/17,CUST-2233,SKU-007,Smart Watch,Electronics,East,Marketplace,PayPal,2,4499.0,0.0,8998.0
+TXN-00363,2024-07-20,CUST-2495,SKU-007,Smart Watch,Electronics,North,Mobile App,PayPal,3,4499.0,0.2,10797.66
+TXN-00313,2024-06-26,CUST-1635,SKU-004,Coffee Maker,Kitchen,East,Mobile App,Credit Card,2,2999.0,0.05,5698.09
+TXN-00319,2024-01-25,CUST-4982,SKU-007,Smart Watch,Electronics,East,Marketplace,Debit Card,5,4499.0,0.05,21370.21
+TXN-00702,2024-04-06,CUST-4495,SKU-009,Water Bottle,Sports,North,Mobile App,PayPal,3,349.0,0.05,71.25
+TXN-00381,2024-07-19,CUST-3404,SKU-010,Laptop Stand,Electronics,North,In-Store,Debit Card,4,749.0,0.1,2696.34
+TXN-00183,12-Nov-2024,CUST-1203,SKU-003,Yoga Mat,Sports,North,In-Store,Bank Transfer,2,649.0,0.2,1038.4
+TXN-00717,2024-10-01,CUST-4241,SKU-006,Sunglasses,Accessories,North,Mobile App,Bank Transfer,2,799.0,0.15,1358.3
+TXN-00111,2024-12-27,CUST-2158,SKU-001,Wireless Earbuds,Electronics,West,Website,PayPal,2,1299.0,0.0,2598.0
+TXN-00531,2024-09-30,CUST-1816,SKU-007,Smart Watch,Electronics,East,Website,Debit Card,1,4499.0,0.0,4499.0
+TXN-00378,2024-10-30,CUST-2759,SKU-010,Laptop Stand,Electronics,West,Website,PayPal,2,749.0,0.05,1423.09
+TXN-00714,2024-03-02,CUST-2621,SKU-003,Yoga Mat,Sports,South,Website,Credit Card,3,649.0,0.1,1752.3
+TXN-00873,2024-03-02,CUST-1353,SKU-010,Laptop Stand,Electronics,Online,Mobile App,Bank Transfer,1,749.0,15.0,636.63
+TXN-00940,2024-01-25,CUST-1607,SKU-006,Sunglasses,Accessories,East,In-Store,Bank Transfer,3,799.0,0.2,1917.6
+TXN-00732,2024-04-28,,SKU-009,Water Bottle,Sports,West,Mobile App,PayPal,1,349.0,0.0,349.0
+TXN-00293,2024-02-27,CUST-2354,SKU-005,Backpack,Accessories,South,Marketplace,Debit Card,2,1099.0,0.2,1758.4
+TXN-00437,2024-09-09,CUST-4164,SKU-008,Protein Powder,Health,South,Mobile App,,3,599.0,0.1,1617.26
+TXN-00836,2024-12-21,CUST-1967,SKU-010,Laptop Stand,Electronics,South,Website,Bank Transfer,3,749.0,0.1,2022.26
+TXN-00308,2024-01-31,CUST-4828,SKU-006,Sunglasses,Accessories,north,Marketplace,Credit Card,1,799.0,0.1,719.1
+TXN-00290,2024-03-31,CUST-4825,SKU-003,Yoga Mat,Sports,North,Marketplace,Bank Transfer,4,649.0,0.2,2076.8
+TXN-00969,2024-10-23,CUST-2440,SKU-006,Sunglasses,Accessories,South,Website,PayPal,1,799.0,0.1,719.1
+TXN-00216,2024-05-08,CUST-1213,SKU-004,Coffee Maker,Kitchen,West,In-Store,Credit Card,5,2999.0,0.0,14995.0
+TXN-00631,2024-03-06,CUST-3349,SKU-001,Wireless Earbuds,Electronics,Online,Mobile App,PayPal,2,1299.0,0.0,2598.0
+TXN-00281,2024-05-06,CUST-2142,SKU-010,Laptop Stand,Electronics,Online,In-Store,PayPal,4,749.0,0.0,2996.0
+TXN-00674,2024-05-01,CUST-2103,SKU-003,Yoga Mat,Sports,West,In-Store,Debit Card,5,649.0,0.0,225.0
+TXN-00451,2024-07-24,CUST-2524,SKU-003,Yoga Mat,Sports,North,In-Store,Credit Card,2,649.0,0.2,1038.4
+TXN-00299,09-14-2024,CUST-4781,SKU-003,Yoga Mat,Sports,East,Website,Debit Card,4,649.0,0.15,2206.6
+TXN-00786,2024-12-20,CUST-3656,SKU-002,Running Shoes,Footwear,South,Website,Credit Card,3,1799.0,0.0,5397.0
+TXN-00138,2024-01-24,CUST-2328,SKU-003,Yoga Mat,Sports,North,In-Store,Debit Card,3,649.0,,1947.0
+TXN-00306,2024/08/24,CUST-3755,SKU-010,Laptop Stand,Electronics,East,Website,Bank Transfer,1,749.0,0.1,674.09
+TXN-00808,2024-06-22,CUST-4777,SKU-004,Coffee Maker,Kitchen,West,Marketplace,Credit Card,3,2999.0,0.2,-7197.66
+TXN-00295,2024-08-06,CUST-3110,SKU-010,Laptop Stand,Electronics,East,Website,Bank Transfer,4,749.0,0.2,2396.83
+TXN-00600,2024-11-24,CUST-3950,SKU-002,Running Shoes,Footwear,Online,Website,Credit Card,5,1799.0,0.0,8995.0
+TXN-00582,2024-01-07,CUST-4046,SKU-006,Sunglasses,Accessories,East,Mobile App,Bank Transfer,5,799.0,0.0,275.0
+TXN-00030,2024-07-25,CUST-3982,SKU-001,Wireless Earbuds,Electronics,East,Website,PayPal,1,1299.0,0.0,1299.0
+TXN-00166,2024-10-30,CUST-1446,SKU-008,Protein Powder,Health,West,Mobile App,Credit Card,3,599.0,0.1,1617.26
+TXN-00249,2024-09-02,CUST-3153,SKU-002,Running Shoes,Footwear,West,Marketplace,Credit Card,3,1799.0,0.05,5127.15
+TXN-00311,2024-07-20,CUST-3166,SKU-002,Running Shoes,Footwear,South,Mobile App,Credit Card,2,1799.0,0.1,3238.2
+TXN-00686,2024-07-26,CUST-4477,SKU-007,Smart Watch,Electronics,North,Website,PayPal,5,4499.0,0.1,20245.57
+TXN-00844,2024-08-09,,SKU-005,Backpack,Accessories,Online,Marketplace,Debit Card,1,1099.0,0.0,1099.0
+TXN-00343,2024-06-18,CUST-3317,SKU-008,Protein Powder,Health,North,Website,PayPal,4,599.0,0.15,2036.66
+TXN-00606,2024-11-26,CUST-4487,SKU-006,Sunglasses,Accessories,Online,Mobile App,PayPal,2,799.0,0.05,1518.1
+TXN-00527,2024-08-22,CUST-1586,SKU-006,Sunglasses,Accessories,East,Mobile App,Credit Card,4,799.0,0.1,2876.4
+TXN-00066,2024-04-11,CUST-1603,SKU-005,Backpack,Accessories,North,Website,PayPal,2,1099.0,0.2,1758.4
+TXN-00632,2024-03-16,CUST-1229,SKU-009,Water Bottle,Sports,South,In-Store,PayPal,1,349.0,0.1,314.1
+TXN-00892,04-May-2024,CUST-3872,SKU-008,Protein Powder,Health,Sth,Website,PayPal,5,599.0,0.0,2995.0
+TXN-00255,2024-10-15,CUST-1168,SKU-010,Laptop Stand,Electronics,North,Website,Credit Card,5,749.0,0.0,3745.0
+TXN-00719,2024-03-09,CUST-2026,SKU-001,Wireless Earbuds,Electronics,North,Marketplace,Bank Transfer,4,1299.0,0.0,5196.0
+TXN-00771,2024-03-01,CUST-1754,SKU-002,Running Shoes,Footwear,East,Mobile App,Credit Card,5,1799.0,0.1,8095.5
+TXN-00222,2024-01-10,CUST-2048,SKU-010,Laptop Stand,Electronics,South,Mobile App,Bank Transfer,1,749.0,0.0,749.0
+TXN-00236,2024-12-04,CUST-2210,SKU-002,Running Shoes,Footwear,East,Marketplace,Bank Transfer,1,1799.0,0.0,1799.0
+TXN-00430,2024-02-22,CUST-4662,SKU-003,Yoga Mat,Sports,Online,Website,,3,649.0,0.2,1557.6
+TXN-00544,2024-01-07,CUST-3751,SKU-006,Sunglasses,Accessories,North,Website,Bank Transfer,2,799.0,,1598.0
+TXN-00441,2024-07-09,CUST-2877,SKU-009,Water Bottle,Sports,North,Website,PayPal,4,349.0,0.15,1186.6
+TXN-00589,2024-07-25,CUST-1376,SKU-007,Smart Watch,Electronics,East,Mobile App,PayPal,5,4499.0,,20245.57
+TXN-00973,2024-08-14,CUST-4644,SKU-005,Backpack,Accessories,Online,In-Store,PayPal,3,1099.0,0.0,3297.0
+TXN-00250,2024-02-07,CUST-2843,SKU-003,Yoga Mat,Sports,West,In-Store,PayPal,3,649.0,0.15,-1654.95
+TXN-00579,2024-10-04,CUST-1132,SKU-005,Backpack,Accessories,East,Marketplace,Credit Card,2,1099.0,0.2,1758.4
+TXN-00410,2024-03-11,CUST-2567,SKU-006,Sunglasses,Accessories,South,Mobile App,,3,799.0,0.0,2397.0
+TXN-00072,2024-11-22,CUST-2135,SKU-005,Backpack,Accessories,Online,Marketplace,PayPal,2,1099.0,0.2,1758.4
+TXN-00095,2024-11-01,CUST-3872,SKU-005,Backpack,Accessories,East,Website,PayPal,3,1099.0,0.0,3297.0
+TXN-00034,2024-03-25,CUST-2552,SKU-004,Coffee Maker,Kitchen,North,Marketplace,Debit Card,4,2999.0,0.0,11996.0
+TXN-00645,2024-05-13,CUST-4501,SKU-007,Smart Watch,Electronics,Online,Marketplace,Debit Card,5,4499.0,0.0,22495.0
+TXN-00260,2024-03-07,CUST-4115,SKU-006,Sunglasses,Accessories,East,Website,Debit Card,3,799.0,0.05,2277.15
+TXN-00205,2024-10-12,CUST-3778,SKU-002,Running Shoes,Footwear,,In-Store,Debit Card,3,1799.0,0.0,5397.0
+TXN-00799,2024-12-21,CUST-4520,SKU-008,Protein Powder,Health,Est,In-Store,Bank Transfer,2,599.0,0.0,1198.0
+TXN-00621,2024-03-15,CUST-4014,SKU-010,Laptop Stand,Electronics,West,In-Store,Credit Card,5,749.0,0.15,3183.29
+TXN-00366,2024-07-12,CUST-1302,SKU-003,Yoga Mat,Sports,West,Marketplace,Bank Transfer,4,649.0,0.2,2076.8
+TXN-00078,2024-09-05,CUST-1118,SKU-004,Coffee Maker,Kitchen,West,In-Store,Bank Transfer,3,2999.0,0.05,8547.13
+TXN-00085,2024-07-07,CUST-1687,SKU-008,Protein Powder,Health,Online,Website,PayPal,3,599.0,0.2,1437.66
+TXN-00995,2024-02-04,CUST-3040,SKU-002,Running Shoes,Footwear,N.,Mobile App,Bank Transfer,1,1799.0,0.2,1439.2
+TXN-00083,2024-11-29,CUST-1164,SKU-004,Coffee Maker,Kitchen,North,Mobile App,PayPal,1,2999.0,20.0,2399.17
+TXN-00526,2024-01-28,CUST-4566,SKU-009,Water Bottle,Sports,S.,Mobile App,PayPal,3,349.0,0.05,994.65
+TXN-00440,2024-12-30,CUST-2146,SKU-008,Protein Powder,Health,North,Website,PayPal,1,599.0,0.0,599.0
+TXN-00568,2024-12-10,CUST-3411,SKU-007,Smart Watch,Electronics,North,Marketplace,Bank Transfer,1,4499.0,0.15,3824.13
+TXN-00561,2024-10-12,CUST-3249,SKU-007,Smart Watch,Electronics,North,Website,Debit Card,4,4499.0,0.0,17996.0
+TXN-00543,2024-01-21,CUST-3245,SKU-007,Smart Watch,Electronics,West,Mobile App,Bank Transfer,3,4499.0,0.0,13497.0
+TXN-00888,2024-07-18,CUST-1258,SKU-010,Laptop Stand,Electronics,Online,In-Store,Bank Transfer,2,749.0,0.05,1423.09
+TXN-00332,2024-05-05,CUST-3045,SKU-004,Coffee Maker,Kitchen,Online,In-Store,Debit Card,4,2999.0,0.1,10796.34
+TXN-00006,2024-05-15,CUST-4305,SKU-006,Sunglasses,Accessories,North,Marketplace,Credit Card,3,799.0,0.1,2157.3
+TXN-00480,2024-10-31,CUST-3513,SKU-009,Water Bottle,Sports,West,Website,Bank Transfer,1,349.0,0.0,349.0
+TXN-00105,2024-09-01,CUST-1467,SKU-001,Wireless Earbuds,Electronics,North,Marketplace,Bank Transfer,3,1299.0,0.2,3117.66
+TXN-00098,2024-10-24,CUST-2511,SKU-004,Coffee Maker,Kitchen,West,In-Store,Bank Transfer,3,2999.0,,7647.38
+TXN-00833,2024-11-28,CUST-1290,SKU-002,Running Shoes,Footwear,East,Marketplace,Bank Transfer,3,1799.0,0.1,4857.3
+TXN-00788,2024-01-23,CUST-4146,SKU-007,Smart Watch,Electronics,South,In-Store,PayPal,5,4499.0,0.05,21370.21
+TXN-00425,2024-06-07,CUST-3728,SKU-010,Laptop Stand,Electronics,South,Website,Credit Card,5,749.0,0.0,3745.0
+TXN-00935,2024-01-12,CUST-2200,SKU-004,Coffee Maker,Kitchen,West,Mobile App,Bank Transfer,5,2999.0,0.15,12745.79
+TXN-00282,2024-04-16,CUST-3827,SKU-005,Backpack,Accessories,West,In-Store,Bank Transfer,3,1099.0,0.15,2802.45
+TXN-00267,24/07/2024,CUST-1209,SKU-007,Smart Watch,Electronics,Online,Mobile App,Debit Card,3,4499.0,0.0,13497.0
+TXN-00535,2024-07-02,CUST-4072,SKU-003,Yoga Mat,Sports,South,Mobile App,Bank Transfer,3,649.0,0.05,1849.65
+TXN-00454,2024-12-15,CUST-2747,SKU-008,Protein Powder,Health,South,In-Store,PayPal,1,599.0,0.05,569.04
+TXN-00360,2024-08-08,CUST-4340,SKU-006,Sunglasses,Accessories,Online,Mobile App,Debit Card,4,799.0,0.0,3196.0
+TXN-00491,2024-12-17,CUST-4550,SKU-009,Water Bottle,Sports,West,Mobile App,Bank Transfer,4,349.0,0.1,1256.4
+TXN-00992,2024-10-24,CUST-3431,SKU-007,Smart Watch,Electronics,East,Marketplace,Debit Card,4,4499.0,0.0,17996.0
+TXN-00817,2024-09-25,CUST-2271,SKU-006,Sunglasses,Accessories,East,Mobile App,Credit Card,4,799.0,0.15,2716.6
+TXN-00119,2024-06-13,CUST-3744,SKU-006,Sunglasses,Accessories,North,Mobile App,Debit Card,4,799.0,0.0,3196.0
+TXN-00635,2024-10-25,CUST-4360,SKU-007,Smart Watch,Electronics,South,In-Store,PayPal,5,4499.0,0.0,22495.0
+TXN-00251,2024-03-07,CUST-2772,SKU-009,Water Bottle,Sports,On-Line,Website,Credit Card,5,349.0,0.0,1745.0
+TXN-00406,2024-07-21,CUST-3562,SKU-006,Sunglasses,Accessories,East,Mobile App,Bank Transfer,2,799.0,0.0,1598.0
+TXN-00718,2024-11-26,CUST-4099,SKU-004,Coffee Maker,Kitchen,East,Marketplace,PayPal,3,2999.0,0.1,8097.26
+TXN-00705,2024-03-05,CUST-3929,SKU-002,Running Shoes,Footwear,West,Website,PayPal,3,1799.0,0.0,5397.0
+TXN-00010,2024-05-16,CUST-3874,SKU-006,Sunglasses,Accessories,North,Mobile App,PayPal,2,799.0,0.15,1358.3
+TXN-00860,2024-10-29,CUST-4026,SKU-002,Running Shoes,Footwear,South,Marketplace,Debit Card,5,1799.0,0.0,8995.0
+TXN-00197,2024-02-04,CUST-2920,SKU-006,Sunglasses,Accessories,West,In-Store,Debit Card,2,799.0,5.0,1518.1
+TXN-00653,2024-04-13,CUST-4483,SKU-008,Protein Powder,Health,On-Line,In-Store,PayPal,4,599.0,0.0,2396.0
+TXN-00082,2024-01-10,CUST-4068,SKU-005,Backpack,Accessories,Online,Website,Debit Card,1,1099.0,0.05,1044.05
+TXN-00448,2024-12-30,CUST-2016,SKU-006,Sunglasses,Accessories,East,Marketplace,Credit Card,2,799.0,0.0,1598.0
+TXN-00534,2024/05/28,CUST-2867,SKU-002,Running Shoes,Footwear,Online,In-Store,Bank Transfer,1,1799.0,0.0,1799.0
+TXN-00669,2024-06-10,CUST-3016,SKU-008,Protein Powder,Health,Online,In-Store,Bank Transfer,3,599.0,0.1,1617.26
+TXN-00240,2024-10-17,CUST-1132,SKU-006,Sunglasses,Accessories,Online,Mobile App,Bank Transfer,3,799.0,0.05,2277.15
+TXN-00412,2024-11-11,CUST-3812,SKU-004,Coffee Maker,Kitchen,West,Mobile App,Credit Card,2,2999.0,0.05,5698.09
+TXN-00212,2024-12-20,CUST-4158,SKU-003,Yoga Mat,Sports,Online,Mobile App,Bank Transfer,2,649.0,0.0,1298.0
+TXN-00774,2024-12-17,CUST-1106,SKU-010,Laptop Stand,Electronics,,Website,Bank Transfer,2,749.0,0.0,1498.0
+TXN-00546,25/08/2024,CUST-1205,SKU-008,Protein Powder,Health,North,Mobile App,Credit Card,3,599.0,0.0,1797.0
+TXN-00520,2024-01-19,CUST-3388,SKU-007,Smart Watch,Electronics,Online,Mobile App,Debit Card,4,4499.0,0.05,17096.17
+TXN-00228,2024-12-02,CUST-3573,SKU-002,Running Shoes,Footwear,North,In-Store,PayPal,3,1799.0,0.0,5397.0
+TXN-00923,2024-12-26,CUST-2660,SKU-008,Protein Powder,Health,South,In-Store,Bank Transfer,2,599.0,0.2,958.34
+TXN-00405,2024-05-20,CUST-1382,SKU-005,Backpack,Accessories,East,In-Store,Credit Card,2,1099.0,0.2,1758.4
+TXN-00890,2024-11-30,CUST-3733,SKU-007,Smart Watch,Electronics,Online,Marketplace,PayPal,1,4499.0,0.0,4499.0
+TXN-00178,2024-08-07,CUST-4461,SKU-005,Backpack,Accessories,Online,Website,Debit Card,5,1099.0,0.0,5495.0
+TXN-00783,2024-05-30,CUST-3511,SKU-008,Protein Powder,Health,North,Mobile App,Bank Transfer,2,599.0,0.05,1138.09
+TXN-00466,2024-03-07,CUST-2395,SKU-010,Laptop Stand,Electronics,South,In-Store,Credit Card,2,749.0,0.2,1198.34
+TXN-00431,2024-01-07,CUST-2001,SKU-009,Water Bottle,Sports,North,Marketplace,Debit Card,1,349.0,0.0,349.0
+TXN-00533,07-15-2024,CUST-3061,SKU-005,Backpack,Accessories,Online,In-Store,PayPal,2,1099.0,0.0,150.0
+TXN-00696,2024-04-26,CUST-4296,SKU-006,Sunglasses,Accessories,North,Marketplace,Debit Card,4,R799.0,,2876.4
+TXN-00479,2024-03-28,CUST-4636,SKU-002,Running Shoes,Footwear,West,Mobile App,Credit Card,1,1799.0,0.0,1799.0
+TXN-00689,2024-01-12,CUST-1512,SKU-003,Yoga Mat,Sports,,In-Store,Credit Card,2,649.0,0.2,1038.4
+TXN-00008,2024-04-26,CUST-4166,SKU-002,Running Shoes,Footwear,East,Website,PayPal,1,1799.0,0.15,1529.15
+TXN-00156,2024-12-22,CUST-4874,SKU-008,Protein Powder,Health,Online,Marketplace,PayPal,3,599.0,0.15,1527.38
+TXN-00358,2024-11-16,CUST-3030,SKU-006,Sunglasses,Accessories,Online,Mobile App,Bank Transfer,3,799.0,0.0,2397.0
+TXN-00585,2024-05-22,CUST-3279,SKU-007,Smart Watch,Electronics,East,Mobile App,PayPal,1,4499.0,0.05,4274.04
+TXN-00224,2024-02-26,CUST-4427,SKU-010,Laptop Stand,Electronics,West,Website,PayPal,4,749.0,0.0,2996.0
+TXN-00330,2024-04-23,CUST-4036,SKU-007,Smart Watch,Electronics,South,Website,Debit Card,1,4499.0,0.1,4049.09
+TXN-00634,2024-08-29,CUST-4552,SKU-004,Coffee Maker,Kitchen,West,Mobile App,PayPal,4,2999.0,0.1,10796.34
+TXN-00823,2024-10-08,CUST-2304,SKU-004,Coffee Maker,Kitchen,East,Mobile App,Debit Card,5,2999.0,0.0,14995.0
+TXN-00869,2024-12-10,CUST-3411,SKU-008,Protein Powder,Health,South,In-Store,PayPal,2,599.0,0.15,1018.26
+TXN-00612,2024-01-03,CUST-2282,SKU-006,Sunglasses,Accessories,South,Mobile App,Bank Transfer,4,799.0,0.0,0.0
+TXN-00376,2024-03-22,CUST-2355,SKU-009,Water Bottle,Sports,Online,Marketplace,Bank Transfer,2,349.0,0.1,45.0
+TXN-00747,2024-01-26,CUST-3759,SKU-009,Water Bottle,Sports,WEST,Marketplace,Credit Card,2,349.0,0.0,698.0
+TXN-00500,2024-03-14,CUST-3532,SKU-003,Yoga Mat,Sports,Online,Marketplace,Credit Card,3,649.0,0.05,0.0
+TXN-00810,2024-09-23,CUST-2226,SKU-007,Smart Watch,Electronics,Online,In-Store,Credit Card,1,4499.0,0.2,3599.17
+TXN-00495,2024-10-11,CUST-2627,SKU-002,Running Shoes,Footwear,Online,In-Store,Debit Card,1,1799.0,0.05,1709.05
+TXN-00573,2024-11-04,CUST-3867,SKU-003,Yoga Mat,Sports,Online,In-Store,Debit Card,2,649.0,0.05,1233.1
+TXN-00629,2024-03-01,CUST-3707,SKU-003,Yoga Mat,Sports,South,Marketplace,Debit Card,3,649.0,0.1,1752.3
+TXN-00763,2024-04-05,CUST-1814,SKU-010,Laptop Stand,Electronics,Online,Marketplace,Credit Card,5,749.0,0.0,3745.0
+TXN-00959,2024-10-10,CUST-3009,SKU-003,Yoga Mat,Sports,North,In-Store,Debit Card,4,649.0,0.0,2596.0
+TXN-00164,2024-05-01,CUST-3411,SKU-003,Yoga Mat,Sports,East,Website,PayPal,1,649.0,0.0,649.0
+TXN-00229,2024-06-22,CUST-4332,SKU-001,Wireless Earbuds,Electronics,South,Marketplace,Bank Transfer,3,1299.0,0.1,3507.26
+TXN-00524,2024-05-30,CUST-2899,SKU-006,Sunglasses,Accessories,North,Marketplace,Credit Card,3,799.0,0.1,2157.3
+TXN-00787,2024-07-04,CUST-1349,SKU-002,Running Shoes,Footwear,Online,Marketplace,PayPal,4,1799.0,0.15,6116.6
+TXN-00213,2024-12-12,CUST-3947,SKU-001,Wireless Earbuds,Electronics,South,Marketplace,Debit Card,4,1299.0,0.0,5196.0
+TXN-00826,2024-07-19,CUST-1733,SKU-001,Wireless Earbuds,Electronics,Online,Marketplace,Debit Card,1,1299.0,0.05,1234.04
+TXN-00080,2024-08-24,CUST-1744,SKU-002,Running Shoes,Footwear,North,In-Store,Bank Transfer,4,1799.0,0.0,7196.0
+TXN-00149,2024-03-25,CUST-2052,SKU-009,Water Bottle,Sports,West,In-Store,Debit Card,5,349.0,0.0,1745.0
+TXN-00303,2024-10-07,CUST-4698,SKU-010,Laptop Stand,Electronics,ONLINE,Mobile App,PayPal,1,749.0,0.0,749.0
+TXN-00449,2024-03-30,CUST-1127,SKU-005,Backpack,Accessories,West,Marketplace,PayPal,3,1099.0,0.2,2637.6
+TXN-00502,2024-06-04,CUST-2273,SKU-001,Wireless Earbuds,Electronics,East,Marketplace,Credit Card,3,1299.0,0.2,3117.66
+TXN-00549,2024-02-17,CUST-2526,SKU-008,Protein Powder,Health,Est,Mobile App,Credit Card,5,599.0,0.0,2995.0
+TXN-00842,2024-11-09,CUST-3090,SKU-002,Running Shoes,Footwear,West,Mobile App,Debit Card,5,1799.0,0.0,8995.0
+TXN-00044,2024-10-05,CUST-3881,SKU-005,Backpack,Accessories,East,Website,Debit Card,2,1099.0,0.05,2088.1
+TXN-00494,2024-08-10,CUST-1827,SKU-007,Smart Watch,Electronics,South,In-Store,Debit Card,1,4499.0,0.15,3824.13
+TXN-00134,2024-08-21,CUST-1062,SKU-008,Protein Powder,Health,South,Marketplace,PayPal,1,599.0,0.1,539.09
+TXN-00595,2024/11/18,CUST-4168,SKU-002,Running Shoes,Footwear,South,Marketplace,Credit Card,2,1799.0,0.15,3058.3
+TXN-00312,2024-12-10,CUST-3945,SKU-001,Wireless Earbuds,Electronics,Online,Marketplace,Bank Transfer,3,1299.0,0.05,3702.13
+TXN-00508,2024-11-21,,SKU-008,Protein Powder,Health,North,Website,PayPal,5,599.0,0.05,2845.21
+TXN-00656,2024-07-21,CUST-2660,SKU-007,Smart Watch,Electronics,Online,Mobile App,Credit Card,3,4499.0,0.15,11472.38
+TXN-00517,2024-06-21,CUST-2132,SKU-002,Running Shoes,Footwear,East,In-Store,Debit Card,4,1799.0,0.0,7196.0
+TXN-00850,2024-08-05,CUST-3476,SKU-006,Sunglasses,Accessories,North,Marketplace,PayPal,2,799.0,0.0,1598.0
+TXN-00812,2024-07-11,CUST-3566,SKU-005,Backpack,Accessories,Online,Mobile App,Bank Transfer,1,1099.0,0.0,1099.0
+TXN-00001,2024-05-20,CUST-2003,SKU-002,Running Shoes,Footwear,South,Mobile App,Credit Card,1,1799.0,0.15,1529.15
+TXN-00783,2024/05/30,CUST-3511,SKU-008,Protein Powder,Health,North,Mobile App,Bank Transfer,2,599.0,0.05,1138.09
+TXN-00383,2024-06-05,CUST-1479,SKU-006,Sunglasses,Accessories,South,In-Store,,1,799.0,0.0,799.0
+TXN-00317,2024-10-22,CUST-3449,SKU-004,Coffee Maker,Kitchen,East,Mobile App,Debit Card,5,2999.0,0.0,14995.0
+TXN-00762,2024-07-13,CUST-3082,SKU-005,Backpack,Accessories,North,In-Store,Bank Transfer,4,1099.0,0.0,4396.0
+TXN-00592,2024-02-28,CUST-2580,SKU-006,Sunglasses,Accessories,East,In-Store,Credit Card,4,799.0,0.2,2556.8
+TXN-00409,2024-04-27,CUST-2569,SKU-003,Yoga Mat,Sports,North,Website,Credit Card,4,649.0,0.0,2596.0
+TXN-00942,2024-02-29,CUST-1168,SKU-003,Yoga Mat,Sports,East,Mobile App,Bank Transfer,2,649.0,0.0,1298.0
+TXN-00399,2024-02-08,CUST-3595,SKU-007,Smart Watch,Electronics,Nrth,Marketplace,Debit Card,4,4499.0,0.05,17096.17
+TXN-00751,2024-10-19,CUST-1803,SKU-008,Protein Powder,Health,Online,Mobile App,PayPal,4,599.0,0.15,2036.66
+TXN-00173,19/03/2024,CUST-3813,SKU-006,Sunglasses,Accessories,West,Website,Credit Card,3,799.0,0.0,2397.0
+TXN-00126,2024-05-29,CUST-3084,SKU-002,Running Shoes,Footwear,East,Marketplace,Bank Transfer,2,1799.0,0.05,3418.1
+TXN-00697,2024-03-20,CUST-2243,SKU-006,Sunglasses,Accessories,North,Website,PayPal,4,799.0,0.0,3196.0
+TXN-00500,2024-03-14,CUST-3532,SKU-003,Yoga Mat,Sports,Online,Marketplace,Credit Card,3,649.0,0.05,1849.65
+TXN-00597,2024-06-18,CUST-1155,SKU-001,Wireless Earbuds,Electronics,North,Website,Credit Card,4,1299.0,0.15,4416.66
+TXN-00972,2024-03-08,CUST-4782,SKU-008,Protein Powder,Health,North,Marketplace,Debit Card,1,599.0,0.0,599.0
+TXN-00091,2024-05-18,CUST-3522,SKU-003,Yoga Mat,Sports,Online,Marketplace,Bank Transfer,5,649.0,0.15,2758.25
+TXN-00503,2024-08-14,CUST-4170,SKU-004,Coffee Maker,Kitchen,East,In-Store,Bank Transfer,2,2999.0,0.0,5998.0
+TXN-00182,2024-06-08,CUST-3955,SKU-006,Sunglasses,Accessories,East,Website,Credit Card,2,799.0,0.0,1598.0
+TXN-00364,2024-08-24,CUST-4862,SKU-009,Water Bottle,Sports,South,Marketplace,Debit Card,1,349.0,0.15,296.65
+TXN-00275,2024-12-01,CUST-4206,SKU-010,Laptop Stand,Electronics,Online,Mobile App,Credit Card,4,749.0,0.0,2996.0
+TXN-00753,27-Jun-2024,CUST-1780,SKU-007,Smart Watch,Electronics,East,In-Store,Credit Card,4,4499.0,0.0,17996.0
+TXN-00963,2024-07-04,CUST-3380,SKU-008,Protein Powder,Health,West,Marketplace,Debit Card,1,599.0,0.1,539.09
+TXN-00070,2024-08-25,CUST-3734,SKU-002,Running Shoes,Footwear,Online,In-Store,Bank Transfer,4,1799.0,0.0,7196.0
+TXN-00292,2024-10-05,CUST-3147,SKU-005,Backpack,Accessories,West,Mobile App,Bank Transfer,4,1099.0,0.15,3736.6
+TXN-00132,2024-08-30,CUST-3888,SKU-001,Wireless Earbuds,Electronics,Wst,Marketplace,PayPal,3,1299.0,0.15,3312.39
+TXN-00301,2024-07-31,CUST-3875,SKU-008,Protein Powder,Health,Online,Marketplace,PayPal,5,599.0,0.0,2995.0
+TXN-00713,2024-04-30,CUST-3592,SKU-001,Wireless Earbuds,Electronics,West,In-Store,Credit Card,2,1299.0,0.0,2598.0
+TXN-00327,2024-06-13,CUST-4176,SKU-007,Smart Watch,Electronics,EAST,Marketplace,Bank Transfer,2,4499.0,0.1,8098.17
+TXN-00145,2024-10-16,CUST-4543,SKU-007,Smart Watch,Electronics,North,Marketplace,Debit Card,3,4499.0,0.0,134970.0
+TXN-00442,2024-10-17,CUST-1255,SKU-007,Smart Watch,Electronics,,Mobile App,PayPal,1,4499.0,0.1,4049.09
+TXN-00964,2024-09-19,CUST-4002,SKU-008,Protein Powder,Health,Online,Website,Debit Card,1,599.0,0.0,39.99
+TXN-00887,2024-04-07,CUST-1573,SKU-002,Running Shoes,Footwear,North,Mobile App,,4,1799.0,0.15,6116.6
+TXN-00136,2024-06-11,CUST-3567,SKU-006,Sunglasses,Accessories,West,Website,Credit Card,5,799.0,0.05,3795.25
+TXN-00997,2024-08-26,CUST-1827,SKU-009,Water Bottle,Sports,East,Marketplace,Bank Transfer,4,349.0,0.2,1116.8
+TXN-00723,2024-04-04,CUST-4616,SKU-001,Wireless Earbuds,Electronics,North,In-Store,PayPal,5,1299.0,0.05,6170.21
+TXN-00165,2024-08-03,CUST-3154,SKU-005,Backpack,Accessories,North,Website,Bank Transfer,1,1099.0,0.0,1099.0
+TXN-00029,08/08/2024,CUST-2451,SKU-002,Running Shoes,Footwear,West,Marketplace,Bank Transfer,1,1799.0,0.15,1529.15
+TXN-00680,2024-07-22,CUST-1405,SKU-009,Water Bottle,Sports,South,Website,PayPal,5,349.0,0.0,1745.0
+TXN-00194,2024-09-18,CUST-1794,SKU-009,Water Bottle,Sports,East,In-Store,PayPal,1,349.0,0.1,22.5
+TXN-00903,2024-02-18,CUST-3535,SKU-004,Coffee Maker,Kitchen,East,Mobile App,Bank Transfer,1,2999.0,0.1,2699.09
+TXN-00814,2024-05-01,CUST-2522,SKU-007,Smart Watch,Electronics,West,In-Store,PayPal,1,4499.0,0.05,4274.04
+TXN-00434,2024-04-24,CUST-4294,SKU-009,Water Bottle,Sports,Online,Website,Bank Transfer,1,349.0,0.0,349.0
+TXN-00988,2024-02-05,CUST-4664,SKU-005,Backpack,Accessories,West,In-Store,PayPal,4,1099.0,0.0,4396.0
+TXN-00170,2024-08-20,CUST-3070,SKU-010,Laptop Stand,Electronics,Online,Marketplace,Credit Card,5,749.0,0.0,3745.0
+TXN-00542,2024-04-12,CUST-4186,SKU-008,Protein Powder,Health,East,Mobile App,Debit Card,2,599.0,0.1,1078.17
+TXN-00141,2024-05-10,CUST-2882,SKU-004,Coffee Maker,Kitchen,East,Website,Bank Transfer,4,2999.0,0.15,10196.66
+TXN-00174,2024-02-19,,SKU-002,Running Shoes,Footwear,East,Mobile App,Credit Card,1,1799.0,0.05,1709.05
+TXN-00007,2024-05-30,CUST-4397,SKU-007,Smart Watch,Electronics,Online,In-Store,PayPal,1,4499.0,0.1,4049.09
+TXN-00821,2024-04-08,CUST-2173,SKU-004,Coffee Maker,Kitchen,East,In-Store,Bank Transfer,3,2999.0,0.0,8997.0
+TXN-00536,2024-03-08,CUST-1865,SKU-001,Wireless Earbuds,Electronics,North,Mobile App,Credit Card,2,1299.0,0.0,2598.0
+TXN-00962,2024-11-26,CUST-2002,SKU-003,Yoga Mat,Sports,,Website,Debit Card,4,649.0,0.15,2206.6
+TXN-00856,2024-05-30,CUST-2184,SKU-007,Smart Watch,Electronics,South,Website,Debit Card,3,4499.0,0.2,10797.66
+TXN-00074,2024-03-18,CUST-1947,SKU-009,Water Bottle,Sports,West,Mobile App,PayPal,1,349.0,0.0,25.0
+TXN-00738,2024-01-01,CUST-3974,SKU-008,Protein Powder,Health,North,In-Store,Credit Card,4,599.0,0.05,2276.17
+TXN-00528,2024-03-31,CUST-2283,SKU-008,Protein Powder,Health,North,Website,Bank Transfer,3,599.0,0.15,1527.38
+TXN-00239,2024-08-12,CUST-1142,SKU-003,Yoga Mat,Sports,South,Website,PayPal,5,649.0,0.15,2758.25
+TXN-00146,2024-06-29,CUST-1897,SKU-004,Coffee Maker,Kitchen,South,In-Store,PayPal,5,2999.0,0.2,11996.0
+TXN-00853,2024-05-23,CUST-2904,SKU-003,Yoga Mat,Sports,Online,Website,Credit Card,5,649.0,0.2,180.0
+TXN-00235,2024-11-04,,SKU-007,Smart Watch,Electronics,South,In-Store,Debit Card,1,4499.0,0.05,4274.04
+TXN-00221,2024-08-29,CUST-3851,SKU-003,Yoga Mat,Sports,South,Marketplace,Bank Transfer,1,649.0,0.0,649.0
+TXN-00215,2024-05-24,CUST-4187,SKU-010,Laptop Stand,Electronics,West,Marketplace,PayPal,4,749.0,0.05,2846.17
+TXN-00712,2024-05-09,CUST-2971,SKU-009,Water Bottle,Sports,East,Mobile App,,5,349.0,0.0,1745.0
+TXN-00133,2024-09-14,CUST-4954,SKU-008,Protein Powder,Health,Online,In-Store,Credit Card,1,599.0,0.0,599.0
+TXN-00784,2024-09-13,CUST-1463,SKU-008,Protein Powder,Health,South,Mobile App,Bank Transfer,1,599.0,0.15,509.13
+TXN-00907,2024-03-21,CUST-4217,SKU-001,Wireless Earbuds,Electronics,North,Marketplace,Credit Card,5,1299.0,0.0,6495.0
+TXN-00708,2024-07-19,CUST-1292,SKU-003,Yoga Mat,Sports,Online,Marketplace,PayPal,1,649.0,0.0,649.0
+TXN-00423,2024-11-28,CUST-3789,SKU-007,Smart Watch,Electronics,North,In-Store,Bank Transfer,5,4499.0,0.15,19120.79
+TXN-00186,2024-11-02,CUST-1224,SKU-001,Wireless Earbuds,Electronics,North,Mobile App,Debit Card,2,1299.0,0.05,2468.09
+TXN-00042,2024-11-14,CUST-3306,SKU-002,Running Shoes,Footwear,,Website,PayPal,1,1799.0,0.05,1709.05
+TXN-00768,2024-03-19,CUST-2746,SKU-007,Smart Watch,Electronics,Est,In-Store,Bank Transfer,2,4499.0,0.1,8098.17
+TXN-00109,2024-12-04,CUST-1332,SKU-004,Coffee Maker,Kitchen,South,Mobile App,PayPal,2,2999.0,0.0,5998.0
+TXN-00636,2024-10-29,CUST-1281,SKU-006,Sunglasses,Accessories,S.,Marketplace,Bank Transfer,4,799.0,0.1,0.0
+TXN-00057,2024-01-20,CUST-1444,SKU-003,Yoga Mat,Sports,online,Marketplace,Debit Card,5,649.0,0.0,3245.0
+TXN-00483,01-26-2024,CUST-2609,SKU-005,Backpack,Accessories,Online,Marketplace,PayPal,2,1099.0,0.0,2198.0
+TXN-00754,11-Nov-2024,CUST-4365,SKU-005,Backpack,Accessories,West,Mobile App,Bank Transfer,2,1099.0,0.0,2198.0
+TXN-00794,2024-01-29,CUST-3675,SKU-001,Wireless Earbuds,Electronics,East,Website,PayPal,2,1299.0,0.0,2598.0
+TXN-00469,2024/03/21,CUST-3999,SKU-005,Backpack,Accessories,West,Marketplace,Debit Card,3,1099.0,0.0,3297.0
+TXN-00927,2024-11-12,CUST-1167,SKU-007,Smart Watch,Electronics,East,In-Store,PayPal,3,4499.0,0.05,12822.13
+TXN-00436,2024-07-07,CUST-1821,SKU-009,Water Bottle,Sports,East,In-Store,PayPal,4,349.0,0.0,1396.0
+TXN-00025,2024-02-02,CUST-2384,SKU-002,Running Shoes,Footwear,North,Mobile App,PayPal,2,1799.0,0.0,3598.0
+TXN-00550,2024-05-19,CUST-4423,SKU-007,Smart Watch,Electronics,West,Marketplace,Bank Transfer,4,4499.0,5.0,17096.17
+TXN-00519,2024-01-14,CUST-3684,SKU-006,Sunglasses,Accessories,West,In-Store,Debit Card,2,799.0,0.15,1358.3
+TXN-00641,2024-10-28,CUST-4295,SKU-008,Protein Powder,Health,Online,Website,Bank Transfer,4,599.0,0.0,2396.0
+TXN-00668,2024-12-12,CUST-4914,SKU-002,Running Shoes,Footwear,,Website,Credit Card,1,1799.0,0.0,1799.0
+TXN-00519,2024-01-14,CUST-3684,SKU-006,Sunglasses,Accessories,West,In-Store,Debit Card,2,799.0,0.15,1358.3
+TXN-00998,2024-06-24,CUST-4315,SKU-009,Water Bottle,Sports,Online,Website,Credit Card,3,349.0,0.1,942.3
+TXN-00339,2024-05-03,CUST-1786,SKU-002,Running Shoes,Footwear,Online,In-Store,Debit Card,5,1799.0,0.0,8995.0
+TXN-00052,2024-01-13,CUST-1734,SKU-003,Yoga Mat,Sports,East,Marketplace,PayPal,2,649.0,0.05,1233.1
+TXN-00384,2024-11-01,CUST-1564,SKU-009,Water Bottle,Sports,Online,Marketplace,Bank Transfer,4,349.0,0.05,1326.2
+TXN-00862,2024-10-31,CUST-4825,SKU-006,Sunglasses,Accessories,South,Marketplace,Bank Transfer,1,799.0,0.0,799.0
+TXN-00990,2024-12-21,CUST-3418,SKU-003,Yoga Mat,Sports,North,Mobile App,Credit Card,4,649.0,0.05,2466.2
+TXN-00683,2024-12-13,CUST-4944,SKU-007,Smart Watch,Electronics,Online,Mobile App,PayPal,1,4499.0,0.0,4499.0
+TXN-00996,2024-06-04,CUST-3547,SKU-010,Laptop Stand,Electronics,online,Website,Credit Card,3,749.0,0.0,2247.0
+TXN-00265,2024-01-25,CUST-1207,SKU-004,Coffee Maker,Kitchen,East,Marketplace,Bank Transfer,5,2999.0,0.0,1499500.0
+TXN-00709,2024-07-14,CUST-4392,SKU-004,Coffee Maker,Kitchen,North,Website,PayPal,3,2999.0,0.2,7197.66
+TXN-00766,2024-01-16,CUST-4867,SKU-001,Wireless Earbuds,Electronics,Online,In-Store,PayPal,3,1299.0,0.05,-3702.13
+TXN-00737,2024-07-11,CUST-4136,SKU-010,Laptop Stand,Electronics,Online,In-Store,Debit Card,5,749.0,0.0,3745.0
+TXN-00445,2024-08-18,CUST-2908,SKU-003,Yoga Mat,Sports,East,Marketplace,Credit Card,1,649.0,0.0,649.0
+TXN-00396,2024-10-20,CUST-2095,SKU-006,Sunglasses,Accessories,Online,Website,PayPal,3,799.0,0.0,2397.0
+TXN-00559,2024-04-30,CUST-1322,SKU-009,Water Bottle,Sports,west,Marketplace,Bank Transfer,4,349.0,0.05,95.0
+TXN-00177,2024-02-25,CUST-2434,SKU-003,Yoga Mat,Sports,Online,In-Store,Credit Card,4,649.0,0.0,2596.0
+TXN-00019,2024-05-14,CUST-4980,SKU-003,Yoga Mat,Sports,Online,Mobile App,Credit Card,4,649.0,0.0,2596.0
+TXN-00980,2024/11/09,CUST-1990,SKU-003,Yoga Mat,Sports,Online,Website,Credit Card,5,649.0,0.2,2596.0
+TXN-00539,2024-08-30,CUST-3874,SKU-002,Running Shoes,Footwear,South,Mobile App,Credit Card,5,1799.0,0.0,8995.0
+TXN-00614,2024-06-05,CUST-2994,SKU-008,Protein Powder,Health,Online,Website,PayPal,3,599.0,,1437.66
+TXN-00591,2024-05-03,CUST-4704,SKU-002,Running Shoes,Footwear,Online,Mobile App,Credit Card,3,1799.0,0.05,5127.15
+TXN-00368,2024-02-13,CUST-1447,SKU-009,Water Bottle,Sports,South,In-Store,PayPal,5,349.0,0.15,1483.25
+TXN-00084,2024-05-02,CUST-1517,SKU-001,Wireless Earbuds,Electronics,West,Website,PayPal,5,1299.0,0.0,449.95
+TXN-00062,2024-07-13,CUST-3774,SKU-004,Coffee Maker,Kitchen,South,In-Store,Bank Transfer,4,2999.0,0.15,10196.66
+TXN-00515,2024-11-15,CUST-2626,SKU-005,Backpack,Accessories,Online,Website,,5,1099.0,0.2,4396.0
+TXN-00273,2024-09-07,CUST-3902,SKU-009,Water Bottle,Sports,Online,In-Store,Bank Transfer,5,349.0,0.1,1570.5
+TXN-00286,2024-10-27,CUST-1980,SKU-003,Yoga Mat,Sports,South,Website,PayPal,1,649.0,0.1,584.1
+TXN-00361,2024-04-12,CUST-2962,SKU-006,Sunglasses,Accessories,Est,Mobile App,Bank Transfer,5,799.0,0.15,3395.75
+TXN-00355,2024-07-17,CUST-4191,SKU-001,Wireless Earbuds,Electronics,North,Mobile App,PayPal,3,1299.0,0.05,3702.13
+TXN-00952,2024-11-04,CUST-3478,SKU-004,Coffee Maker,Kitchen,Online,Website,Debit Card,4,2999.0,0.0,11996.0
+TXN-00279,2024-04-16,CUST-3297,SKU-001,Wireless Earbuds,Electronics,East,Marketplace,Bank Transfer,2,1299.0,0.1,2338.17
+TXN-00369,2024-11-26,CUST-3774,SKU-010,Laptop Stand,Electronics,West,In-Store,Bank Transfer,1,749.0,0.1,674.09
+TXN-00665,2024-04-21,CUST-4663,SKU-008,Protein Powder,Health,Online,In-Store,PayPal,3,599.0,0.0,1797.0
+TXN-00619,2024-07-22,CUST-2490,SKU-009,Water Bottle,Sports,Online,Website,,5,349.0,0.0,1745.0
+TXN-00590,05-30-2024,CUST-1894,SKU-006,Sunglasses,Accessories,Online,Marketplace,Credit Card,3,799.0,0.0,2397.0
+TXN-00658,2024-04-09,CUST-2862,SKU-005,Backpack,Accessories,West,Website,Debit Card,2,1099.0,0.1,1978.2
+TXN-00576,2024-10-19,CUST-4861,SKU-009,Water Bottle,Sports,West,In-Store,Bank Transfer,4,349.0,0.1,1256.4
+TXN-00457,2024-04-12,CUST-3632,SKU-007,Smart Watch,Electronics,Online,Mobile App,Credit Card,2,4499.0,0.05,8548.09
+TXN-00394,2024-12-29,CUST-3499,SKU-010,Laptop Stand,Electronics,Wst,Mobile App,PayPal,3,749.0,0.2,1797.66
+TXN-00685,2024-08-25,CUST-3587,SKU-007,Smart Watch,Electronics,South,Mobile App,Debit Card,5,4499.0,0.0,22495.0
+TXN-00724,2024-10-02,CUST-4354,SKU-006,Sunglasses,Accessories,West,Mobile App,Bank Transfer,1,799.0,0.15,679.15
+TXN-00376,2024-03-22,CUST-2355,SKU-009,Water Bottle,Sports,Online,Marketplace,Bank Transfer,2,349.0,0.1,45.0
+TXN-00413,2024-03-04,CUST-3414,SKU-002,Running Shoes,Footwear,West,In-Store,Bank Transfer,2,1799.0,0.2,2878.4
+TXN-00075,2024-06-18,CUST-3222,SKU-002,Running Shoes,Footwear,West,Marketplace,Credit Card,4,1799.0,0.05,6836.2
+TXN-00948,2024/12/13,CUST-3256,SKU-008,Protein Powder,Health,NORTH,In-Store,Credit Card,1,599.0,0.0,599.0
+TXN-00501,2024-05-01,,SKU-007,Smart Watch,Electronics,West,In-Store,Debit Card,3,4499.0,0.15,11472.38
+TXN-00605,2024-10-02,CUST-3242,SKU-010,Laptop Stand,Electronics,North,In-Store,PayPal,5,749.0,0.05,3557.71
+TXN-00115,2024-01-21,CUST-4643,SKU-008,Protein Powder,Health,WEST,In-Store,Debit Card,1,599.0,0.1,539.09
+TXN-00418,2024-10-18,CUST-2723,SKU-003,Yoga Mat,Sports,East,Mobile App,Bank Transfer,4,649.0,0.2,144.0
+TXN-00090,2024-11-21,CUST-4651,SKU-002,Running Shoes,Footwear,West,Mobile App,Bank Transfer,4,1799.0,0.0,-7196.0
+TXN-00991,2024-04-12,CUST-3436,SKU-006,Sunglasses,Accessories,West,Website,PayPal,2,799.0,0.0,1598.0
+TXN-00933,2024-07-19,CUST-4677,SKU-008,Protein Powder,Health,South,In-Store,Credit Card,1,599.0,0.0,599.0
+TXN-00875,2024-08-06,CUST-3835,SKU-002,Running Shoes,Footwear,East,In-Store,,4,1799.0,0.0,7196.0
+TXN-00661,2024-05-04,CUST-4102,SKU-007,Smart Watch,Electronics,,Marketplace,Bank Transfer,5,4499.0,0.05,21370.21
+TXN-00012,2024-01-17,CUST-4297,SKU-001,Wireless Earbuds,Electronics,East,Marketplace,Debit Card,2,1299.0,0.2,-2078.34
+TXN-00397,2024-12-01,CUST-1519,SKU-007,Smart Watch,Electronics,South,Mobile App,PayPal,1,4499.0,0.0,4499.0
+TXN-00576,2024-10-19,CUST-4861,SKU-009,Water Bottle,Sports,West,In-Store,Bank Transfer,4,349.0,0.1,1256.4
+TXN-00043,27/06/2024,CUST-4608,SKU-009,Water Bottle,Sports,North,Mobile App,Debit Card,3,R349.0,0.0,1047.0
+TXN-00168,2024-02-25,CUST-3008,SKU-007,Smart Watch,Electronics,West,Website,Credit Card,4,4499.0,0.15,15296.66
+TXN-00417,27/09/2024,CUST-4640,SKU-008,Protein Powder,Health,north,In-Store,Debit Card,5,599.0,0.0,2995.0
+TXN-00968,2024-06-14,CUST-4573,SKU-010,Laptop Stand,Electronics,East,In-Store,Debit Card,2,749.0,0.1,1348.17
+TXN-00427,2024-05-17,CUST-4002,SKU-006,Sunglasses,Accessories,North,Website,Debit Card,2,799.0,0.15,1358.3
+TXN-00545,2024-09-18,CUST-1307,SKU-003,Yoga Mat,Sports,North,In-Store,PayPal,1,649.0,0.2,519.2
+TXN-00949,2024-04-22,CUST-2826,SKU-007,Smart Watch,Electronics,East,Website,Debit Card,5,4499.0,0.2,17996.0
+TXN-00693,2024-03-28,CUST-1117,SKU-003,Yoga Mat,Sports,North,In-Store,Debit Card,5,649.0,0.2,2596.0
+TXN-00905,2024-01-23,CUST-1221,SKU-003,Yoga Mat,Sports,East,In-Store,PayPal,2,649.0,0.15,76.5
+TXN-00662,2024-02-29,CUST-2056,SKU-010,Laptop Stand,Electronics,North,Marketplace,PayPal,1,749.0,0.05,7115.43
+TXN-00258,2024-02-07,CUST-3820,SKU-007,Smart Watch,Electronics,North,Mobile App,Bank Transfer,3,4499.0,0.05,12822.13
+TXN-00336,2024-08-21,CUST-2528,SKU-001,Wireless Earbuds,Electronics,North,Marketplace,Bank Transfer,2,1299.0,0.1,2338.17
+TXN-00016,2024-11-17,CUST-1655,SKU-001,Wireless Earbuds,Electronics,West,Website,Bank Transfer,1,1299.0,0.0,1299.0
+TXN-00679,2024-06-10,CUST-4216,SKU-009,Water Bottle,Sports,West,In-Store,Debit Card,5,349.0,0.15,1483.25
+TXN-00325,2024-09-02,CUST-1855,SKU-010,Laptop Stand,Electronics,East,In-Store,Credit Card,5,749.0,0.0,3745.0
+TXN-00818,2024-01-19,CUST-2881,SKU-009,Water Bottle,Sports,West,Website,Credit Card,2,349.0,0.0,698.0
+TXN-00223,2024-06-03,CUST-1499,SKU-002,Running Shoes,Footwear,North,Mobile App,Bank Transfer,3,1799.0,0.0,5397.0
+TXN-00180,2024-03-14,CUST-3319,SKU-001,Wireless Earbuds,Electronics,West,Website,PayPal,2,1299.0,0.2,2078.34
+TXN-00100,2024-04-08,CUST-2292,SKU-004,Coffee Maker,Kitchen,North,Mobile App,PayPal,1,2999.0,0.15,25491.28
+TXN-00522,2024-02-19,CUST-2928,SKU-009,Water Bottle,Sports,South,In-Store,PayPal,2,349.0,0.0,698.0
+TXN-00023,2024-03-25,CUST-2085,SKU-003,Yoga Mat,Sports,Online,Marketplace,PayPal,4,649.0,0.1,2336.4
+TXN-00357,2024-05-21,CUST-2724,SKU-002,Running Shoes,Footwear,East,Marketplace,Credit Card,2,1799.0,0.05,3418.1
+TXN-00721,2024-11-02,CUST-4745,SKU-006,Sunglasses,Accessories,Online,Mobile App,Credit Card,4,799.0,0.0,3196.0
+TXN-00928,2024-12-29,CUST-4168,SKU-009,Water Bottle,Sports,South,Mobile App,Debit Card,1,349.0,0.1,3141.0
+TXN-00758,2024-05-12,CUST-3247,SKU-004,Coffee Maker,Kitchen,West,Mobile App,Credit Card,5,2999.0,0.1,13495.57
+TXN-00341,2024-02-11,CUST-3677,SKU-004,Coffee Maker,Kitchen,North,Website,Bank Transfer,3,2999.0,0.15,7647.38
+TXN-00432,2024-01-19,CUST-3264,SKU-007,Smart Watch,Electronics,West,Mobile App,Debit Card,2,4499.0,0.0,8998.0
+TXN-00596,2024-12-25,CUST-4598,SKU-004,Coffee Maker,Kitchen,West,Website,PayPal,5,2999.0,0.2,11996.0
+TXN-00899,2024-01-04,CUST-1029,SKU-001,Wireless Earbuds,Electronics,South,Website,Debit Card,4,1299.0,0.0,5196.0
+TXN-00204,2024-06-22,CUST-3780,SKU-007,Smart Watch,Electronics,Online,Website,Debit Card,4,4499.0,0.2,14396.83
+TXN-00761,2024-12-04,CUST-2111,SKU-001,Wireless Earbuds,Electronics,East,Website,Credit Card,1,1299.0,0.05,1234.04
+TXN-00094,2024-06-15,CUST-1744,SKU-001,Wireless Earbuds,Electronics,West,Mobile App,Debit Card,4,1299.0,0.2,4156.83
+TXN-00603,2024-10-06,CUST-2208,SKU-003,Yoga Mat,Sports,South,In-Store,Debit Card,4,649.0,0.2,2076.8
+TXN-00069,2024-12-22,CUST-3121,SKU-004,Coffee Maker,Kitchen,West,Website,PayPal,2,2999.0,0.2,4798.34
+TXN-00954,2024-06-06,CUST-2825,SKU-005,Backpack,Accessories,Online,Website,PayPal,3,1099.0,0.0,3297.0
+TXN-00285,2024-04-13,CUST-4391,SKU-005,Backpack,Accessories,Online,In-Store,Debit Card,4,1099.0,0.0,4396.0
+TXN-00866,2024-08-10,CUST-1048,SKU-005,Backpack,Accessories,,Marketplace,Bank Transfer,2,1099.0,10.0,1978.2
+TXN-00435,2024-05-24,CUST-4168,SKU-002,Running Shoes,Footwear,East,In-Store,Credit Card,4,1799.0,0.2,384.0
+TXN-00154,2024-07-28,CUST-1477,SKU-008,Protein Powder,Health,South,Website,Credit Card,3,599.0,0.15,1527.38
+TXN-00076,2024-10-26,CUST-4875,SKU-004,Coffee Maker,Kitchen,north,Marketplace,Bank Transfer,4,2999.0,0.05,11396.17
+TXN-00789,2024-12-30,CUST-1210,SKU-003,Yoga Mat,Sports,West,In-Store,Debit Card,2,649.0,0.0,1298.0
+TXN-00581,2024-12-06,CUST-1192,SKU-009,Water Bottle,Sports,West,Marketplace,Bank Transfer,3,349.0,0.15,889.95
+TXN-00447,2024-12-17,CUST-2246,SKU-002,Running Shoes,Footwear,online,Website,PayPal,1,1799.0,0.0,1799.0
+TXN-00189,2024-01-22,CUST-2786,SKU-002,Running Shoes,Footwear,North,Marketplace,Credit Card,4,1799.0,,5756.8
+TXN-00272,2024-03-24,CUST-2609,SKU-006,Sunglasses,Accessories,Online,In-Store,Debit Card,5,799.0,0.0,3995.0
+TXN-00237,2024-08-16,CUST-1173,SKU-003,Yoga Mat,Sports,East,Marketplace,Debit Card,4,649.0,0.0,2596.0
+TXN-00488,2024-08-13,CUST-2904,SKU-008,Protein Powder,Health,Est,Mobile App,Debit Card,1,599.0,0.0,599.0
+TXN-00560,2024-06-10,CUST-1486,SKU-002,Running Shoes,Footwear,West,Website,Credit Card,4,1799.0,,6836.2
+TXN-00118,2024-11-21,CUST-4335,SKU-003,Yoga Mat,Sports,West,Website,Bank Transfer,5,649.0,0.05,3082.75
+TXN-00881,2024-06-17,CUST-4705,SKU-005,Backpack,Accessories,West,Website,Bank Transfer,2,1099.0,0.15,1868.3
+TXN-00513,2024-01-05,CUST-1916,SKU-003,Yoga Mat,Sports,East,In-Store,Debit Card,2,649.0,0.1,1168.2
+TXN-00598,2024-02-06,CUST-3355,SKU-003,Yoga Mat,Sports,South,In-Store,Bank Transfer,3,649.0,0.1,1752.3
+TXN-00644,2024-06-10,CUST-2674,SKU-007,Smart Watch,Electronics,East,Website,PayPal,2,4499.0,0.15,7648.26
+TXN-00127,2024-10-09,CUST-1592,SKU-008,Protein Powder,Health,West,Mobile App,PayPal,2,599.0,0.05,1138.09
+TXN-00117,2024-03-30,CUST-2927,SKU-010,Laptop Stand,Electronics,Online,Marketplace,Debit Card,1,749.0,0.2,599.17
+TXN-00474,2024-02-15,CUST-4365,SKU-006,Sunglasses,Accessories,East,Marketplace,Credit Card,2,799.0,0.15,1358.3
+TXN-00785,2024-01-13,CUST-1732,SKU-007,Smart Watch,Electronics,West,Mobile App,Bank Transfer,3,4499.0,0.05,12822.13
+TXN-00058,2024-09-18,CUST-1473,SKU-006,Sunglasses,Accessories,West,Mobile App,Debit Card,4,799.0,0.1,2876.4
+TXN-00729,2024-04-16,CUST-3685,SKU-010,Laptop Stand,Electronics,West,Website,Bank Transfer,1,749.0,0.0,749.0
+TXN-00981,2024-04-21,CUST-3931,SKU-010,Laptop Stand,Electronics,South,In-Store,PayPal,1,749.0,0.1,674.09
+TXN-00370,12-May-2024,CUST-1909,SKU-002,Running Shoes,Footwear,Online,Mobile App,,1,1799.0,0.0,120.0
+TXN-00269,2024-07-10,CUST-4255,SKU-003,Yoga Mat,Sports,East,In-Store,PayPal,1,649.0,0.05,0.0
+TXN-00047,2024-08-04,CUST-4397,SKU-001,Wireless Earbuds,Electronics,East,Website,Credit Card,1,1299.0,0.15,1104.13
+TXN-00350,2024-10-26,CUST-3706,SKU-007,Smart Watch,Electronics,West,Website,Debit Card,2,4499.0,0.15,7648.26
+TXN-00196,2024-10-15,CUST-4112,SKU-003,Yoga Mat,Sports,Online,Marketplace,Debit Card,4,649.0,0.05,2466.2
+TXN-00103,2024-10-10,CUST-2196,SKU-005,Backpack,Accessories,South,Marketplace,Credit Card,1,1099.0,0.0,1099.0
+TXN-00900,2024-03-05,CUST-1844,SKU-007,Smart Watch,Electronics,South,In-Store,Bank Transfer,4,4499.0,0.15,15296.66
+TXN-00746,2024-01-22,CUST-2307,SKU-001,Wireless Earbuds,Electronics,Online,Mobile App,Debit Card,3,1299.0,0.1,3507.26
+TXN-00894,2024-10-31,CUST-4273,SKU-002,Running Shoes,Footwear,ONLINE,Mobile App,Credit Card,1,1799.0,0.05,114.0
+TXN-00264,2024-02-16,CUST-4871,SKU-005,Backpack,Accessories,West,Marketplace,PayPal,4,1099.0,0.0,4396.0
+TXN-00444,2024-02-08,CUST-4864,SKU-008,Protein Powder,Health,South,Mobile App,Credit Card,3,599.0,0.0,1797.0
+TXN-00793,2024-01-04,CUST-2002,SKU-002,Running Shoes,Footwear,Online,In-Store,PayPal,5,1799.0,0.1,8095.5
+TXN-00305,2024-01-29,CUST-2857,SKU-002,Running Shoes,Footwear,South,Marketplace,Bank Transfer,5,1799.0,0.05,570.0
+TXN-00342,2024-08-31,CUST-1229,SKU-007,Smart Watch,Electronics,North,Mobile App,Credit Card,4,4499.0,,16196.34
+TXN-00937,2024-09-23,CUST-3640,SKU-001,Wireless Earbuds,Electronics,East,Marketplace,Debit Card,2,1299.0,0.2,2078.34
+TXN-00314,2024-01-09,CUST-1985,SKU-001,Wireless Earbuds,Electronics,South,Website,Credit Card,4,1299.0,0.1,4676.34
+TXN-00150,2024-03-13,CUST-4089,SKU-002,Running Shoes,Footwear,South,Marketplace,Debit Card,4,1799.0,0.0,7196.0
+TXN-00125,2024-07-27,CUST-1381,SKU-009,Water Bottle,Sports,South,Website,Bank Transfer,1,349.0,0.1,314.1
+TXN-00847,2024-01-06,CUST-1293,SKU-005,Backpack,Accessories,North,Mobile App,Bank Transfer,2,1099.0,0.0,2198.0
+TXN-00886,2024-07-18,CUST-4671,SKU-004,Coffee Maker,Kitchen,North,In-Store,Bank Transfer,3,2999.0,0.15,0.0
+TXN-00051,2024-10-13,CUST-4621,SKU-004,Coffee Maker,Kitchen,West,Mobile App,PayPal,1,2999.0,0.0,2999.0
+TXN-00354,2024-06-30,CUST-3270,SKU-002,Running Shoes,Footwear,North,In-Store,Bank Transfer,1,1799.0,0.0,1799.0
+TXN-00999,2024-08-18,CUST-2288,SKU-007,Smart Watch,Electronics,West,Marketplace,Bank Transfer,1,4499.0,0.05,4274.04
+TXN-00143,2024-06-03,CUST-1815,SKU-005,Backpack,Accessories,West,Marketplace,Credit Card,4,1099.0,0.2,3516.8
+TXN-00471,2024-12-18,CUST-2206,SKU-007,Smart Watch,Electronics,South,Mobile App,Credit Card,3,4499.0,0.15,764.97
+TXN-00400,2024-06-16,CUST-3383,SKU-006,Sunglasses,Accessories,North,Website,Bank Transfer,4,799.0,0.05,3036.2
+TXN-00930,2024/09/14,CUST-3786,SKU-006,Sunglasses,Accessories,West,In-Store,Credit Card,3,799.0,0.0,-2397.0
+TXN-00321,2024-12-28,CUST-1591,SKU-004,Coffee Maker,Kitchen,West,Website,Bank Transfer,3,2999.0,0.2,7197.66
+TXN-00020,2024-04-11,CUST-1626,SKU-005,Backpack,Accessories,East,Mobile App,Credit Card,5,1099.0,0.1,4945.5
+TXN-00908,2024-08-15,CUST-3427,SKU-002,Running Shoes,Footwear,Online,In-Store,Bank Transfer,2,1799.0,0.15,3058.3
+TXN-00851,2024-10-06,CUST-3360,SKU-009,Water Bottle,Sports,East,Website,Credit Card,3,349.0,0.05,994.65
+TXN-00895,2024-12-13,CUST-2646,SKU-004,Coffee Maker,Kitchen,East,Website,PayPal,4,2999.0,0.0,11996.0
+TXN-00408,2024-01-05,CUST-3849,SKU-009,Water Bottle,Sports,East,Website,Bank Transfer,4,349.0,0.0,1396.0
+TXN-00538,2024-12-19,CUST-1474,SKU-002,Running Shoes,Footwear,West,Marketplace,Bank Transfer,1,1799.0,0.0,1799.0
+TXN-00694,2024-10-03,CUST-4829,SKU-008,Protein Powder,Health,East,Marketplace,PayPal,4,599.0,0.2,1916.83
+TXN-00039,2024-05-06,CUST-3371,SKU-007,Smart Watch,Electronics,Online,Website,,1,4499.0,0.1,4049.09
+TXN-00176,2024-11-03,CUST-2279,SKU-007,Smart Watch,Electronics,East,Website,PayPal,1,4499.0,0.0,4499.0
+TXN-00246,2024-06-02,CUST-4487,SKU-009,Water Bottle,Sports,South,Mobile App,Debit Card,5,349.0,0.0,1745.0
+TXN-00893,2024-02-19,CUST-2868,SKU-001,Wireless Earbuds,Electronics,Online,Mobile App,Credit Card,3,1299.0,,3117.66
+TXN-00722,2024-05-31,CUST-4356,SKU-009,Water Bottle,Sports,East,In-Store,Bank Transfer,2,349.0,0.05,663.1
+TXN-00944,2024-10-03,CUST-4995,SKU-003,Yoga Mat,Sports,,In-Store,Credit Card,3,649.0,0.05,1849.65
+TXN-00925,09-Nov-2024,CUST-3221,SKU-007,Smart Watch,Electronics,Online,Mobile App,Credit Card,3,4499.0,0.15,11472.38
+TXN-00155,2024-02-19,CUST-1961,SKU-005,Backpack,Accessories,Online,Mobile App,Bank Transfer,4,1099.0,,4396.0
+TXN-00639,2024-03-07,CUST-4694,SKU-002,Running Shoes,Footwear,Online,Website,Bank Transfer,4,1799.0,0.15,6116.6
+TXN-00288,2024-07-27,CUST-3674,SKU-001,Wireless Earbuds,Electronics,Wst,Marketplace,PayPal,5,1299.0,0.0,6495.0
+TXN-00626,2024-04-24,CUST-3115,SKU-009,Water Bottle,Sports,West,In-Store,Debit Card,3,349.0,0.05,994.65
+TXN-00742,2024-06-02,CUST-1376,SKU-004,Coffee Maker,Kitchen,Online,Marketplace,PayPal,3,2999.0,0.2,7197.66
+TXN-00570,2024-03-31,CUST-3833,SKU-010,Laptop Stand,Electronics,Online,Mobile App,PayPal,4,749.0,0.1,2696.34
+TXN-00802,2024-06-30,CUST-4797,SKU-009,Water Bottle,Sports,South,Marketplace,Bank Transfer,5,349.0,0.1,1570.5
+TXN-00018,2024-11-24,CUST-2393,SKU-009,Water Bottle,Sports,North,In-Store,Bank Transfer,3,349.0,0.2,837.6
+TXN-00128,2024-07-31,CUST-2392,SKU-002,Running Shoes,Footwear,Online,In-Store,Credit Card,3,1799.0,0.2,4317.6
+TXN-00323,2024-07-08,CUST-1378,SKU-006,Sunglasses,Accessories,Online,Mobile App,Credit Card,1,799.0,0.05,759.05
+TXN-00256,2024-04-17,CUST-4141,SKU-010,Laptop Stand,Electronics,Online,Marketplace,Credit Card,3,749.0,0.15,1909.88
+TXN-00791,2024-08-22,CUST-3038,SKU-010,Laptop Stand,Electronics,West,Website,Bank Transfer,3,749.0,0.0,2247.0
+TXN-00292,2024-10-05,CUST-3147,SKU-005,Backpack,Accessories,West,Mobile App,,4,1099.0,0.15,3736.6
+TXN-00191,2024-03-28,CUST-4282,SKU-007,Smart Watch,Electronics,Online,Marketplace,Debit Card,1,4499.0,0.0,4499.0
+TXN-00116,2024-12-11,,SKU-001,Wireless Earbuds,Electronics,Online,Website,Debit Card,1,1299.0,0.0,1299.0
+TXN-00666,2024-04-12,CUST-1961,SKU-004,Coffee Maker,Kitchen,South,In-Store,PayPal,4,2999.0,0.15,1019666.0
+TXN-00607,2024-05-09,CUST-1795,SKU-003,Yoga Mat,Sports,North,Mobile App,Credit Card,2,649.0,0.1,1168.2
+TXN-00181,2024-09-28,CUST-1881,SKU-001,Wireless Earbuds,Electronics,West,Marketplace,Bank Transfer,1,1299.0,0.15,1104.13
+TXN-00302,2024-02-11,CUST-3152,SKU-004,Coffee Maker,Kitchen,West,In-Store,Credit Card,5,2999.0,0.2,11996.0
+TXN-00830,2024-12-06,CUST-2353,SKU-007,Smart Watch,Electronics,East,Marketplace,Bank Transfer,2,4499.0,0.15,7648.26
+TXN-00901,2024-11-08,CUST-3833,SKU-007,Smart Watch,Electronics,N.,Mobile App,Bank Transfer,2,4499.0,0.0,8998.0
+TXN-00781,2024-09-22,CUST-3203,SKU-008,Protein Powder,Health,West,Website,Bank Transfer,1,R599.0,0.0,599.0
+TXN-00740,2024-09-18,CUST-3278,SKU-001,Wireless Earbuds,Electronics,Online,Mobile App,Credit Card,3,1299.0,0.1,3507.26
+TXN-00716,2024-12-17,CUST-3533,SKU-003,Yoga Mat,Sports,East,Website,Credit Card,4,649.0,0.0,180.0
+TXN-00518,2024-09-21,CUST-4135,SKU-005,Backpack,Accessories,South,Website,Bank Transfer,2,1099.0,0.0,2198.0
+TXN-00373,08-21-2024,CUST-4212,SKU-006,Sunglasses,Accessories,South,Marketplace,Debit Card,3,799.0,0.0,2397.0
+TXN-00046,2024-06-24,CUST-1833,SKU-005,Backpack,Accessories,,Marketplace,Debit Card,5,1099.0,0.0,5495.0
+TXN-00978,2024-02-19,CUST-4204,SKU-005,Backpack,Accessories,North,Mobile App,PayPal,1,1099.0,0.2,879.2
+TXN-00158,2024-08-15,CUST-4893,SKU-006,Sunglasses,Accessories,South,In-Store,,2,799.0,0.05,104.5
+TXN-00803,2024-04-29,CUST-3902,SKU-008,Protein Powder,Health,East,Mobile App,Credit Card,2,599.0,0.1,1078.17
+TXN-00172,2024-07-31,CUST-3988,SKU-006,Sunglasses,Accessories,N.,In-Store,Bank Transfer,4,799.0,0.05,3036.2
+TXN-00017,2024-09-27,CUST-2029,SKU-007,Smart Watch,Electronics,Online,Website,Credit Card,5,4499.0,0.05,21370.21
+TXN-00512,28/07/2024,CUST-3102,SKU-004,Coffee Maker,Kitchen,North,Website,Bank Transfer,3,2999.0,0.15,7647.38
+TXN-00049,2024-03-17,CUST-3234,SKU-002,Running Shoes,Footwear,North,In-Store,PayPal,1,1799.0,0.15,1529.15
+TXN-00192,2024-02-24,CUST-1996,SKU-002,Running Shoes,Footwear,West,Marketplace,Credit Card,4,1799.0,0.2,384.0
+TXN-00906,2024-11-11,CUST-4297,SKU-007,Smart Watch,Electronics,West,Website,Credit Card,3,4499.0,0.0,13497.0
+TXN-00516,2024-11-27,CUST-3432,SKU-009,Water Bottle,Sports,ONLINE,In-Store,Debit Card,3,349.0,0.1,942.3
+TXN-00735,2024-09-15,CUST-2382,SKU-003,Yoga Mat,Sports,South,Marketplace,Debit Card,5,649.0,0.05,3082.75
+TXN-00741,2024-03-20,CUST-1566,SKU-001,Wireless Earbuds,Electronics,East,In-Store,PayPal,4,1299.0,0.0,5196.0
+TXN-00481,2024-03-21,,SKU-003,Yoga Mat,Sports,North,In-Store,PayPal,5,649.0,0.05,3082.75
+TXN-00284,2024-01-22,CUST-2178,SKU-006,Sunglasses,Accessories,North,In-Store,Bank Transfer,2,799.0,0.0,1598.0
+TXN-00775,2024-11-05,CUST-2920,SKU-003,Yoga Mat,Sports,East,Mobile App,Bank Transfer,5,649.0,0.2,2596.0
+TXN-00707,2024-12-22,,SKU-008,Protein Powder,Health,North,In-Store,Credit Card,3,599.0,0.05,1707.13
+TXN-00226,2024-07-03,CUST-1277,SKU-003,Yoga Mat,Sports,Online,Website,Bank Transfer,1,649.0,0.1,584.1
+TXN-00027,2024-05-01,CUST-2140,SKU-006,Sunglasses,Accessories,West,Mobile App,PayPal,1,799.0,0.1,719.1
+TXN-00843,2024-01-28,CUST-1003,SKU-001,Wireless Earbuds,Electronics,Online,In-Store,Credit Card,3,1299.0,0.1,3507.26
+TXN-00438,2024-04-29,CUST-3218,SKU-001,Wireless Earbuds,Electronics,East,Website,Debit Card,4,1299.0,0.0,5196.0
+TXN-00058,2024-09-18,CUST-1473,SKU-006,Sunglasses,Accessories,West,Mobile App,,4,799.0,0.1,2876.4
+TXN-00365,2024-09-12,CUST-1570,SKU-002,Running Shoes,Footwear,East,Mobile App,Debit Card,4,1799.0,0.15,6116.6
+TXN-00230,2024-08-22,CUST-1151,SKU-003,Yoga Mat,Sports,EAST,Mobile App,Credit Card,2,649.0,0.0,1298.0
+TXN-00038,2024-04-05,CUST-1280,SKU-009,Water Bottle,Sports,Online,Website,PayPal,1,349.0,0.2,279.2
+TXN-00670,2024-07-22,CUST-1909,SKU-003,Yoga Mat,Sports,Online,Mobile App,Credit Card,5,649.0,0.0,3245.0
+TXN-00329,2024-06-12,CUST-4745,SKU-002,Running Shoes,Footwear,South,In-Store,Debit Card,4,1799.0,0.2,5756.8
+TXN-00375,2024-06-24,CUST-3654,SKU-001,Wireless Earbuds,Electronics,North,Mobile App,PayPal,1,1299.0,0.0,1299.0
+TXN-00470,2024-11-10,CUST-4223,SKU-003,Yoga Mat,Sports,East,Mobile App,PayPal,5,649.0,0.15,2758.25
+TXN-00063,2024-05-26,CUST-1860,SKU-009,Water Bottle,Sports,West,In-Store,Bank Transfer,1,349.0,0.0,349.0
+TXN-00688,2024-07-04,CUST-4063,SKU-005,Backpack,Accessories,Online,Marketplace,Bank Transfer,4,1099.0,0.2,3516.8
+TXN-00917,2024-08-07,CUST-4015,SKU-005,Backpack,Accessories,South,Mobile App,Debit Card,1,1099.0,0.15,934.15
+TXN-00759,2024-09-26,CUST-1178,SKU-007,Smart Watch,Electronics,East,Mobile App,Credit Card,5,4499.0,0.15,19120.79
+TXN-00784,2024-09-13,CUST-1463,SKU-008,Protein Powder,Health,South,Mobile App,Bank Transfer,1,599.0,0.15,509.13
+TXN-00195,2024-05-11,CUST-1808,SKU-004,Coffee Maker,Kitchen,South,Mobile App,Credit Card,1,2999.0,,2999.0
+TXN-00921,2024-05-31,CUST-1979,SKU-004,Coffee Maker,Kitchen,North,Website,Bank Transfer,2,2999.0,0.0,5998.0
+TXN-00931,2024-08-19,CUST-2991,SKU-002,Running Shoes,Footwear,Online,Website,Bank Transfer,3,1799.0,0.0,5397.0
+TXN-00504,2024-08-14,CUST-1865,SKU-010,Laptop Stand,Electronics,West,Marketplace,Debit Card,1,749.0,0.0,749.0
+TXN-00029,2024-08-08,CUST-2451,SKU-002,Running Shoes,Footwear,West,Marketplace,Bank Transfer,1,1799.0,0.15,1529.15
+TXN-00896,2024-01-24,CUST-3429,SKU-006,Sunglasses,Accessories,South,In-Store,Credit Card,2,799.0,0.2,1278.4
+TXN-00580,24-Apr-2024,CUST-4040,SKU-010,Laptop Stand,Electronics,Online,Marketplace,PayPal,5,749.0,0.2,299600.0
+TXN-00161,2024-10-16,CUST-1840,SKU-006,Sunglasses,Accessories,North,Mobile App,PayPal,2,799.0,0.0,1598.0
+TXN-00681,2024-11-18,CUST-1394,SKU-005,Backpack,Accessories,West,In-Store,Debit Card,4,1099.0,0.2,3516.8
+TXN-00163,2024-05-08,CUST-4270,SKU-003,Yoga Mat,Sports,South,Website,Credit Card,2,649.0,0.1,1168.2
+TXN-00706,2024-09-09,CUST-1889,SKU-002,Running Shoes,Footwear,East,Marketplace,Debit Card,2,1799.0,0.0,3598.0
+TXN-00757,2024-08-29,CUST-1093,SKU-002,Running Shoes,Footwear,East,Mobile App,PayPal,3,1799.0,0.05,5127.15
+TXN-00153,2024-10-14,CUST-2343,SKU-008,Protein Powder,Health,Online,Mobile App,Credit Card,1,599.0,0.1,539.09
+TXN-00801,2024-12-27,CUST-2176,SKU-008,Protein Powder,Health,West,In-Store,Debit Card,5,599.0,0.2,2396.0
+TXN-00755,2024-12-16,CUST-2531,SKU-001,Wireless Earbuds,Electronics,South,Website,Credit Card,2,1299.0,0.0,2598.0
+TXN-00815,2024-02-27,CUST-2532,SKU-009,Water Bottle,Sports,North,Mobile App,Credit Card,3,349.0,0.0,1047.0
+TXN-00112,2024-04-11,CUST-2741,SKU-005,Backpack,Accessories,North,Mobile App,PayPal,5,1099.0,0.15,318.75
+TXN-00227,17-Jul-2024,CUST-2529,SKU-008,Protein Powder,Health,East,Website,Debit Card,1,599.0,0.15,509.13
+TXN-00884,27-Nov-2024,CUST-1371,SKU-007,Smart Watch,Electronics,East,In-Store,Credit Card,1,4499.0,0.15,3824.13
+TXN-00104,2024-08-28,CUST-2960,SKU-001,Wireless Earbuds,Electronics,West,In-Store,PayPal,5,1299.0,0.0,6495.0
+TXN-00422,2024-09-18,CUST-4772,SKU-002,Running Shoes,Footwear,,Mobile App,Debit Card,3,1799.0,0.0,5397.0
+TXN-00420,2024-05-26,CUST-3574,SKU-001,Wireless Earbuds,Electronics,Online,Marketplace,Bank Transfer,4,1299.0,0.1,4676.34
+TXN-00809,2024-11-17,CUST-2886,SKU-003,Yoga Mat,Sports,Online,In-Store,Bank Transfer,4,649.0,0.0,2596.0
+TXN-00587,2024-11-16,CUST-3521,SKU-006,Sunglasses,Accessories,East,Marketplace,Debit Card,5,799.0,0.0,3995.0
+TXN-00676,2024-10-19,CUST-1537,SKU-005,Backpack,Accessories,Online,Mobile App,Credit Card,4,1099.0,0.0,4396.0
+TXN-00673,2024-10-24,CUST-1412,SKU-001,Wireless Earbuds,Electronics,East,In-Store,Debit Card,2,1299.0,0.05,2468.09
+TXN-00120,2024-12-05,CUST-4871,SKU-007,Smart Watch,Electronics,West,Website,Bank Transfer,4,4499.0,0.0,17996.0
+TXN-00054,2024-08-23,CUST-2432,SKU-004,Coffee Maker,Kitchen,East,Mobile App,PayPal,2,2999.0,0.2,319.98
+TXN-00152,2024-11-22,CUST-4851,SKU-005,Backpack,Accessories,East,Website,PayPal,5,1099.0,0.05,5220.25
+TXN-00404,2024-01-01,CUST-4924,SKU-003,Yoga Mat,Sports,West,Mobile App,PayPal,4,649.0,0.05,2466.2
+TXN-00482,2024-10-10,CUST-3957,SKU-004,Coffee Maker,Kitchen,On-Line,In-Store,Debit Card,4,2999.0,0.15,10196.66
+TXN-00208,2024-12-25,CUST-4395,SKU-006,Sunglasses,Accessories,Online,Website,Bank Transfer,2,799.0,0.15,1358.3
+TXN-00659,2024-02-24,CUST-3288,SKU-003,Yoga Mat,Sports,North,In-Store,Debit Card,4,649.0,0.1,2336.4
+TXN-00910,2024-04-22,CUST-1301,SKU-007,Smart Watch,Electronics,West,Marketplace,Credit Card,2,4499.0,0.05,8548.09
+TXN-00979,2024-02-16,CUST-1596,SKU-003,Yoga Mat,Sports,East,In-Store,Debit Card,3,649.0,0.0,1947.0
+TXN-00009,2024-08-20,CUST-3603,SKU-002,Running Shoes,Footwear,East,Mobile App,Debit Card,4,1799.0,0.0,480.0
+TXN-00870,2024-12-10,CUST-1034,SKU-006,Sunglasses,Accessories,North,Website,Bank Transfer,5,799.0,0.0,3995.0
+TXN-00037,2024-09-01,CUST-3059,SKU-001,Wireless Earbuds,Electronics,Online,Mobile App,Credit Card,1,1299.0,0.1,1169.09
+TXN-00453,2024-01-26,CUST-1688,SKU-002,Running Shoes,Footwear,Online,Marketplace,Bank Transfer,1,1799.0,0.05,1709.05
+TXN-00652,2024-09-23,CUST-2173,SKU-007,Smart Watch,Electronics,Online,Website,PayPal,5,4499.0,0.15,19120.79
+TXN-00254,2024-02-17,CUST-3058,SKU-005,Backpack,Accessories,South,Mobile App,PayPal,5,1099.0,0.1,337.5
+TXN-00304,2024-09-23,CUST-2809,SKU-003,Yoga Mat,Sports,North,Mobile App,Bank Transfer,3,649.0,0.2,108.0
+TXN-00911,2024-11-08,CUST-2863,SKU-007,Smart Watch,Electronics,South,Marketplace,Debit Card,2,4499.0,0.0,8998.0
+TXN-00572,2024-07-22,CUST-4946,SKU-010,Laptop Stand,Electronics,East,In-Store,Bank Transfer,2,749.0,0.0,1498.0
+TXN-00624,2024-12-26,CUST-4966,SKU-001,Wireless Earbuds,Electronics,Online,In-Store,Debit Card,3,1299.0,0.0,3897.0
+TXN-00765,2024-06-29,CUST-2455,SKU-001,Wireless Earbuds,Electronics,East,Mobile App,Debit Card,3,1299.0,0.15,3312.39
+TXN-00993,2024-09-05,CUST-3094,SKU-008,Protein Powder,Health,East,Mobile App,Bank Transfer,5,599.0,0.05,2845.21
+TXN-00263,2024-03-22,CUST-3040,SKU-010,Laptop Stand,Electronics,Online,Marketplace,Bank Transfer,3,749.0,0.0,2247.0
+TXN-00611,2024-12-03,CUST-2252,SKU-008,Protein Powder,Health,On-Line,Mobile App,Debit Card,3,599.0,0.1,1617.26
+TXN-00298,2024-04-30,CUST-1254,SKU-005,Backpack,Accessories,North,Marketplace,Debit Card,3,1099.0,0.15,2802.45
+TXN-00415,2024-09-22,CUST-3485,SKU-001,Wireless Earbuds,Electronics,Online,Mobile App,Bank Transfer,3,1299.0,0.0,3897.0
+TXN-00151,2024-05-15,CUST-3197,SKU-002,Running Shoes,Footwear,North,Marketplace,Debit Card,4,1799.0,0.0,7196.0
+TXN-00849,17/09/2024,CUST-2737,SKU-010,Laptop Stand,Electronics,Online,Marketplace,,2,749.0,0.05,1423.09
+TXN-00641,2024-10-28,CUST-4295,SKU-008,Protein Powder,Health,Online,Website,Bank Transfer,4,599.0,0.0,2396.0
+TXN-00957,2024-10-29,CUST-4097,SKU-009,Water Bottle,Sports,West,Website,Credit Card,3,349.0,0.0,75.0
+TXN-00551,2024-12-22,CUST-3975,SKU-003,Yoga Mat,Sports,North,Mobile App,Credit Card,1,649.0,0.0,649.0
+TXN-00852,2024-07-07,CUST-1463,SKU-010,Laptop Stand,Electronics,Online,Marketplace,Credit Card,4,749.0,0.15,2546.66
+TXN-00489,2024-12-22,CUST-3733,SKU-010,Laptop Stand,Electronics,Nrth,Website,Debit Card,1,749.0,0.0,749.0
+TXN-00711,2024-06-08,CUST-4834,SKU-008,Protein Powder,Health,East,Mobile App,Credit Card,4,599.0,0.15,2036.66
+TXN-00148,2024-07-31,CUST-1719,SKU-002,Running Shoes,Footwear,South,Mobile App,Debit Card,3,1799.0,0.0,5397.0
+TXN-00147,2024-08-13,CUST-1136,SKU-002,Running Shoes,Footwear,Online,In-Store,PayPal,1,1799.0,0.0,1799.0
+TXN-00778,2024-11-11,CUST-3006,SKU-003,Yoga Mat,Sports,East,Marketplace,PayPal,4,649.0,0.2,2076.8
+TXN-00320,2024-06-02,CUST-2541,SKU-007,Smart Watch,Electronics,South,Marketplace,PayPal,4,4499.0,0.0,17996.0
+TXN-00854,2024-12-05,CUST-4933,SKU-004,Coffee Maker,Kitchen,North,In-Store,Credit Card,4,2999.0,0.15,10196.66
+TXN-00951,2024-10-02,CUST-4479,SKU-004,Coffee Maker,Kitchen,west,Website,Bank Transfer,1,2999.0,0.0,2999.0
+TXN-00660,2024-10-02,CUST-4330,SKU-002,Running Shoes,Footwear,Online,In-Store,Bank Transfer,5,1799.0,0.0,8995.0
+TXN-00349,2024/08/18,CUST-3009,SKU-001,Wireless Earbuds,Electronics,South,In-Store,Bank Transfer,3,1299.0,0.2,3117.66
+TXN-00464,2024-03-30,CUST-3008,SKU-008,Protein Powder,Health,North,Website,Credit Card,5,599.0,0.0,2995.0
+TXN-00326,2024-03-01,CUST-4059,SKU-004,Coffee Maker,Kitchen,West,Mobile App,PayPal,2,2999.0,0.15,5098.26
+TXN-00187,2024-05-10,CUST-2185,SKU-004,Coffee Maker,Kitchen,East,Website,Credit Card,2,2999.0,0.2,4798.34
+TXN-00124,2024-11-07,CUST-4273,SKU-002,Running Shoes,Footwear,South,Mobile App,Debit Card,1,1799.0,0.15,1529.15
+TXN-00920,2024-05-03,CUST-1340,SKU-002,Running Shoes,Footwear,Online,Website,Bank Transfer,4,1799.0,0.05,6836.2
+TXN-00609,2024-10-24,CUST-2995,SKU-002,Running Shoes,Footwear,East,In-Store,PayPal,2,1799.0,,3058.3
+TXN-00144,2024-07-02,CUST-3354,SKU-004,Coffee Maker,Kitchen,East,In-Store,Credit Card,4,2999.0,0.1,10796.34
+TXN-00752,2024-08-08,CUST-2324,SKU-002,Running Shoes,Footwear,Online,Website,Credit Card,3,1799.0,0.2,4317.6
+TXN-00632,2024-03-16,CUST-1229,SKU-009,Water Bottle,Sports,,In-Store,PayPal,1,349.0,0.1,314.1
+TXN-00198,2024-09-16,CUST-1303,SKU-010,Laptop Stand,Electronics,East,Marketplace,Bank Transfer,1,749.0,0.0,749.0
+TXN-00610,2024-11-13,CUST-1285,SKU-004,Coffee Maker,Kitchen,South,In-Store,Bank Transfer,1,2999.0,0.0,2999.0
+TXN-00280,2024-09-29,CUST-2402,SKU-006,Sunglasses,Accessories,online,In-Store,Debit Card,2,799.0,0.05,1518.1
+TXN-00294,2024-06-21,CUST-4238,SKU-003,Yoga Mat,Sports,East,Mobile App,PayPal,1,649.0,0.15,551.65
+TXN-00897,2024-07-31,CUST-1688,SKU-002,Running Shoes,Footwear,East,Mobile App,Bank Transfer,3,1799.0,0.0,5397.0
+TXN-00401,2024-09-30,CUST-2629,SKU-006,Sunglasses,Accessories,South,Marketplace,PayPal,1,799.0,0.2,639.2
+TXN-00123,2024-10-08,CUST-1536,SKU-001,Wireless Earbuds,Electronics,EAST,Marketplace,Bank Transfer,2,1299.0,0.0,2598.0
+TXN-00184,2024-08-14,CUST-2696,SKU-007,Smart Watch,Electronics,East,Mobile App,Credit Card,4,4499.0,0.1,16196.34
+TXN-00203,2024-11-08,CUST-1650,SKU-008,Protein Powder,Health,East,In-Store,Debit Card,5,599.0,0.1,2695.57
+TXN-00439,2024-06-06,CUST-1425,SKU-001,Wireless Earbuds,Electronics,SOUTH,Mobile App,Bank Transfer,4,1299.0,,4156.83
+TXN-00247,2024-04-12,CUST-4244,SKU-009,Water Bottle,Sports,South,Mobile App,Bank Transfer,2,349.0,0.0,0.0
+TXN-00416,2024-05-02,CUST-3027,SKU-005,Backpack,Accessories,West,Website,PayPal,1,1099.0,0.2,879.2
+TXN-00837,2024/08/25,CUST-2332,SKU-002,Running Shoes,Footwear,online,Website,Bank Transfer,5,1799.0,0.1,8095.5
+TXN-00825,2024-08-29,CUST-4699,SKU-001,Wireless Earbuds,Electronics,North,Website,Bank Transfer,2,1299.0,0.0,0.0
+TXN-00975,2024-03-07,CUST-1321,SKU-005,Backpack,Accessories,West,Website,Credit Card,2,1099.0,0.0,2198.0
+TXN-00828,2024-12-23,CUST-2918,SKU-010,Laptop Stand,Electronics,North,Marketplace,Debit Card,2,749.0,0.0,1498.0
+TXN-00955,2024-08-14,CUST-2182,SKU-008,Protein Powder,Health,South,Marketplace,Bank Transfer,4,599.0,0.2,1916.83
+TXN-00130,2024-06-19,CUST-3260,SKU-009,Water Bottle,Sports,Online,Marketplace,Bank Transfer,4,349.0,0.0,1396.0
+TXN-00638,2024-08-31,CUST-4692,SKU-010,Laptop Stand,Electronics,Online,Website,Credit Card,1,749.0,0.0,749.0
+TXN-00403,2024-02-20,CUST-3564,SKU-006,Sunglasses,Accessories,West,Website,Credit Card,1,799.0,0.0,799.0
+TXN-00845,2024-08-10,CUST-3232,SKU-007,Smart Watch,Electronics,south,Mobile App,Bank Transfer,4,4499.0,0.05,17096.17
+TXN-00831,2024-02-27,CUST-2439,SKU-001,Wireless Earbuds,Electronics,West,Marketplace,PayPal,1,1299.0,0.05,1234.04
+TXN-00736,2024-07-09,CUST-2688,SKU-006,Sunglasses,Accessories,West,In-Store,PayPal,5,799.0,0.0,3995.0
+TXN-00982,2024-02-20,CUST-4785,SKU-009,Water Bottle,Sports,South,Marketplace,Debit Card,1,349.0,0.15,296.65
+TXN-00220,2024-01-15,CUST-2305,SKU-002,Running Shoes,Footwear,North,In-Store,PayPal,3,1799.0,0.0,5397.0
+TXN-00642,2024-04-29,CUST-4727,SKU-003,Yoga Mat,Sports,Nrth,In-Store,,3,649.0,0.05,1849.65
+TXN-00984,2024-09-20,CUST-1932,SKU-007,Smart Watch,Electronics,West,Website,Debit Card,4,4499.0,0.0,17996.0
+TXN-00811,2024-06-18,CUST-4274,SKU-004,Coffee Maker,Kitchen,East,Website,PayPal,5,2999.0,0.15,12745.79
+TXN-00868,2024-05-18,CUST-2093,SKU-010,Laptop Stand,Electronics,North,In-Store,Bank Transfer,3,749.0,0.0,2247.0
+TXN-00989,2024-02-23,CUST-2623,SKU-001,Wireless Earbuds,Electronics,West,Website,Credit Card,4,1299.0,0.15,4416.66
+TXN-00625,2024-03-30,,SKU-010,Laptop Stand,Electronics,West,In-Store,Credit Card,5,749.0,0.1,3370.57
+TXN-00904,2024-04-09,CUST-1461,SKU-004,Coffee Maker,Kitchen,South,Marketplace,Bank Transfer,3,2999.0,0.0,8997.0
+TXN-00820,2024-12-03,CUST-4053,SKU-001,Wireless Earbuds,Electronics,East,Website,Debit Card,1,1299.0,0.1,1169.09
+TXN-00387,2024-04-09,CUST-4339,SKU-001,Wireless Earbuds,Electronics,West,Marketplace,Bank Transfer,4,1299.0,0.0,359.96
+TXN-00047,2024-08-04,CUST-4397,SKU-001,Wireless Earbuds,Electronics,East,Website,Credit Card,1,1299.0,0.15,1104.13
+TXN-00807,2024-07-21,CUST-3967,SKU-002,Running Shoes,Footwear,Online,Website,PayPal,3,1799.0,0.0,5397.0
+TXN-00510,2024-12-18,CUST-1370,SKU-003,Yoga Mat,Sports,East,Website,Bank Transfer,3,649.0,0.15,1654.95
+TXN-00268,2024-07-16,CUST-3065,SKU-009,Water Bottle,Sports,West,In-Store,Credit Card,3,349.0,0.0,1047.0
+TXN-00882,2024-02-05,CUST-3212,SKU-008,Protein Powder,Health,South,Website,Bank Transfer,4,599.0,0.05,2276.17
+TXN-00442,2024/10/17,CUST-1255,SKU-007,Smart Watch,Electronics,West,Mobile App,PayPal,1,4499.0,0.1,4049.09
+TXN-00497,2024-10-17,CUST-3408,SKU-007,Smart Watch,Electronics,Online,Website,Credit Card,2,4499.0,0.0,8998.0
+TXN-00113,2024-01-31,CUST-1679,SKU-005,Backpack,Accessories,East,In-Store,Bank Transfer,2,1099.0,0.0,2198.0
+TXN-00692,2024-05-06,,SKU-007,Smart Watch,Electronics,East,Marketplace,PayPal,3,4499.0,0.0,13497.0
+TXN-00233,2024-07-23,CUST-4044,SKU-002,Running Shoes,Footwear,Wst,Marketplace,Debit Card,3,1799.0,0.05,5127.15
+TXN-00936,2024-11-26,CUST-1087,SKU-006,Sunglasses,Accessories,East,Mobile App,Credit Card,4,799.0,0.05,3036.2
+TXN-00608,2024-10-08,CUST-1299,SKU-009,Water Bottle,Sports,East,Website,Debit Card,4,349.0,0.15,1186.6
+TXN-00672,2024-12-23,CUST-3122,SKU-003,Yoga Mat,Sports,West,In-Store,Credit Card,4,649.0,0.0,2596.0
+TXN-00374,2024-12-22,CUST-2853,SKU-008,Protein Powder,Health,East,Website,Debit Card,1,599.0,0.05,569.04
+TXN-00664,2024-07-23,CUST-3759,SKU-004,Coffee Maker,Kitchen,East,Website,PayPal,3,2999.0,0.0,8997.0
+TXN-00909,2024-02-26,CUST-2335,SKU-004,Coffee Maker,Kitchen,South,Website,PayPal,3,2999.0,0.0,8997.0
+TXN-00234,2024-09-11,CUST-2504,SKU-003,Yoga Mat,Sports,Online,In-Store,Credit Card,4,649.0,0.15,2206.6
+TXN-00553,2024-12-16,CUST-4604,SKU-006,Sunglasses,Accessories,South,Marketplace,Bank Transfer,5,799.0,0.0,3995.0
+TXN-00846,2024-07-15,CUST-4454,SKU-003,Yoga Mat,Sports,East,Marketplace,PayPal,2,649.0,0.1,1168.2
+TXN-00677,2024-08-09,CUST-4507,SKU-005,Backpack,Accessories,West,Mobile App,PayPal,2,1099.0,0.1,1978.2
+TXN-00318,2024-07-30,CUST-2230,SKU-003,Yoga Mat,Sports,East,Website,PayPal,5,649.0,0.0,3245.0
+TXN-00649,2024-07-24,CUST-4219,SKU-002,Running Shoes,Footwear,,Website,PayPal,2,1799.0,0.1,3238.2
+TXN-00411,2024-11-08,CUST-3662,SKU-009,Water Bottle,Sports,SOUTH,Marketplace,Debit Card,5,349.0,0.0,1745.0
+TXN-00966,2024-07-03,CUST-2718,SKU-003,Yoga Mat,Sports,East,Website,Debit Card,1,R649.0,0.0,649.0
+TXN-00710,2024-01-18,CUST-1815,SKU-007,Smart Watch,Electronics,West,Website,PayPal,4,4499.0,0.0,17996.0
+TXN-00359,2024-01-04,CUST-4886,SKU-002,Running Shoes,Footwear,WEST,In-Store,Bank Transfer,2,1799.0,0.0,3598.0
+TXN-00259,2024-04-14,CUST-2393,SKU-007,Smart Watch,Electronics,Online,Mobile App,Debit Card,4,4499.0,0.05,17096.17
+TXN-00745,2024-03-02,CUST-4562,SKU-007,Smart Watch,Electronics,S.,Website,Bank Transfer,4,4499.0,,14396.83
+TXN-00628,2024-11-25,CUST-2150,SKU-004,Coffee Maker,Kitchen,South,Mobile App,PayPal,1,2999.0,0.1,2699.09
+TXN-00633,2024-10-15,CUST-3611,SKU-009,Water Bottle,Sports,North,In-Store,Credit Card,4,349.0,0.1,1256.4
+TXN-00283,2024-05-20,CUST-2178,SKU-006,Sunglasses,Accessories,North,Marketplace,Bank Transfer,5,799.0,0.2,3196.0
+TXN-00377,2024-04-04,CUST-1763,SKU-004,Coffee Maker,Kitchen,West,Marketplace,Credit Card,4,2999.0,0.15,10196.66
+TXN-00385,2024-10-02,CUST-3840,SKU-003,Yoga Mat,Sports,South,Mobile App,Bank Transfer,4,649.0,0.15,2206.6
+TXN-00225,2024-01-01,CUST-3518,SKU-003,Yoga Mat,Sports,East,Mobile App,Bank Transfer,3,649.0,0.05,1849.65
+TXN-00606,2024-11-26,CUST-4487,SKU-006,Sunglasses,Accessories,Online,Mobile App,PayPal,2,799.0,0.05,1518.1
+TXN-00877,2024-08-13,,SKU-005,Backpack,Accessories,West,Mobile App,Bank Transfer,3,1099.0,0.0,3297.0
+TXN-00473,2024-03-13,CUST-2356,SKU-010,Laptop Stand,Electronics,North,Mobile App,Debit Card,1,749.0,0.05,711.54
+TXN-00348,2024-11-10,,SKU-002,Running Shoes,Footwear,Online,Marketplace,Debit Card,3,1799.0,0.1,4857.3
+TXN-00506,2024-03-29,CUST-1789,SKU-009,Water Bottle,Sports,South,Website,PayPal,5,349.0,0.0,1745.0
+TXN-00640,2024-01-23,,SKU-009,Water Bottle,Sports,Online,Marketplace,PayPal,4,349.0,0.0,1396.0
+TXN-00598,2024-02-06,CUST-3355,SKU-003,Yoga Mat,Sports,South,In-Store,Bank Transfer,3,649.0,0.1,1752.3
+TXN-00798,2024-08-06,CUST-4454,SKU-007,Smart Watch,Electronics,Online,Website,Debit Card,1,4499.0,0.2,3599.17
+TXN-01000,2024-10-12,CUST-3700,SKU-001,Wireless Earbuds,Electronics,East,Mobile App,Bank Transfer,1,1299.0,0.0,1299.0
+TXN-00974,2024-03-01,CUST-1910,SKU-005,Backpack,Accessories,South,Mobile App,,1,1099.0,0.15,934.15
+TXN-00620,2024-09-20,CUST-1574,SKU-010,Laptop Stand,Electronics,West,Mobile App,PayPal,2,749.0,0.2,1198.34
+TXN-00953,2024-08-06,CUST-2514,SKU-007,Smart Watch,Electronics,West,In-Store,Credit Card,2,4499.0,0.15,7648.26
+TXN-00865,2024-09-29,CUST-1957,SKU-008,Protein Powder,Health,WEST,Marketplace,Bank Transfer,3,599.0,0.05,1707.13
+TXN-00646,2024-07-22,CUST-4092,SKU-010,Laptop Stand,Electronics,South,Marketplace,Bank Transfer,3,749.0,0.15,1909.88
+TXN-00913,2024-12-20,CUST-3329,SKU-006,Sunglasses,Accessories,North,In-Store,PayPal,2,799.0,0.0,1598.0
+TXN-00557,2024-08-28,CUST-4489,SKU-001,Wireless Earbuds,Electronics,West,Mobile App,Credit Card,2,1299.0,0.1,2338.17
+TXN-00682,2024-10-12,CUST-4816,SKU-006,Sunglasses,Accessories,East,In-Store,Credit Card,3,799.0,0.1,2157.3
+TXN-00578,23/03/2024,CUST-2173,SKU-004,Coffee Maker,Kitchen,East,Mobile App,Credit Card,3,2999.0,0.2,7197.66
+TXN-00796,2024-03-23,CUST-3752,SKU-002,Running Shoes,Footwear,East,Mobile App,Bank Transfer,4,1799.0,0.0,0.0
+TXN-00086,2024-01-14,CUST-4804,SKU-005,Backpack,Accessories,East,Marketplace,Bank Transfer,1,1099.0,0.1,989.1
+TXN-00243,13-May-2024,CUST-3883,SKU-009,Water Bottle,Sports,West,Mobile App,Debit Card,1,349.0,0.0,349.0
+TXN-00699,2024-05-29,,SKU-001,Wireless Earbuds,Electronics,South,Website,Debit Card,4,1299.0,0.2,4156.83
+TXN-00941,2024-12-30,CUST-3192,SKU-003,Yoga Mat,Sports,East,Mobile App,PayPal,5,649.0,0.0,3245.0
+TXN-00160,2024-12-05,CUST-1868,SKU-002,Running Shoes,Footwear,Online,Website,Credit Card,4,1799.0,0.0,7196.0
+TXN-00525,2024-02-06,CUST-2934,SKU-010,Laptop Stand,Electronics,South,Website,Bank Transfer,5,749.0,0.1,3370.57
+TXN-00036,2024-01-30,CUST-3372,SKU-004,Coffee Maker,Kitchen,Online,Website,Debit Card,3,2999.0,0.0,8997.0
+TXN-00541,2024-11-12,CUST-1482,SKU-007,Smart Watch,Electronics,East,Website,Credit Card,1,4499.0,0.1,4049.09
+TXN-00171,2024-04-20,CUST-2761,SKU-002,Running Shoes,Footwear,West,Mobile App,Bank Transfer,5,1799.0,0.15,7645.75
+TXN-00655,01-01-2024,CUST-4996,SKU-006,Sunglasses,Accessories,South,Website,Debit Card,2,799.0,0.15,1358.3
+TXN-00971,2024-04-23,CUST-4406,SKU-004,Coffee Maker,Kitchen,South,Website,Bank Transfer,2,2999.0,0.1,5398.17
+TXN-00924,2024/12/19,CUST-2363,SKU-001,Wireless Earbuds,Electronics,Online,Website,Debit Card,1,1299.0,0.05,1234.04
+TXN-00914,2024-08-02,CUST-1701,SKU-002,Running Shoes,Footwear,East,Mobile App,Debit Card,4,1799.0,0.05,6836.2
+TXN-00586,2024-06-18,CUST-2910,SKU-010,Laptop Stand,Electronics,South,Website,PayPal,3,749.0,0.0,2247.0
+TXN-00734,2024-08-22,CUST-3877,SKU-010,Laptop Stand,Electronics,West,Website,PayPal,3,749.0,0.15,1909.88
+TXN-00096,2024-07-27,CUST-3001,SKU-002,Running Shoes,Footwear,Online,Mobile App,Bank Transfer,2,1799.0,0.15,3058.3
+TXN-00564,2024-12-03,CUST-1908,SKU-008,Protein Powder,Health,North,In-Store,Debit Card,1,599.0,0.0,599.0
+TXN-00241,02-09-2024,CUST-3350,SKU-006,Sunglasses,Accessories,South,In-Store,Bank Transfer,3,799.0,0.05,2277.15
+TXN-00743,2024-09-04,CUST-1708,SKU-002,Running Shoes,Footwear,West,Website,Debit Card,3,1799.0,0.2,4317.6
+TXN-00864,2024-02-29,CUST-1215,SKU-001,Wireless Earbuds,Electronics,South,Marketplace,Bank Transfer,3,1299.0,0.2,3117.66
+TXN-00575,2024-12-21,CUST-3608,SKU-003,Yoga Mat,Sports,East,Website,Debit Card,5,649.0,0.1,2920.5
+TXN-00691,2024-02-12,CUST-1425,SKU-001,Wireless Earbuds,Electronics,East,Mobile App,Credit Card,4,1299.0,0.1,4676.34
+TXN-00461,2024-05-03,CUST-2091,SKU-002,Running Shoes,Footwear,Online,Website,PayPal,2,1799.0,0.15,3058.3
+TXN-00554,2024-01-24,CUST-1259,SKU-002,Running Shoes,Footwear,East,In-Store,Credit Card,4,1799.0,0.05,6836.2
+TXN-00858,2024-05-26,CUST-2985,SKU-005,Backpack,Accessories,North,Mobile App,Credit Card,5,1099.0,0.0,5495.0
+TXN-00945,2024-03-15,CUST-4882,SKU-001,Wireless Earbuds,Electronics,West,In-Store,PayPal,4,1299.0,0.05,4936.17
+TXN-00207,2024-12-28,CUST-4842,SKU-007,Smart Watch,Electronics,North,In-Store,Bank Transfer,2,4499.0,0.1,8098.17
+TXN-00393,2024-02-14,CUST-2798,SKU-008,Protein Powder,Health,North,Mobile App,PayPal,3,599.0,0.0,1797.0
+TXN-00795,2024-11-04,CUST-2222,SKU-001,Wireless Earbuds,Electronics,East,Website,Credit Card,5,1299.0,20.0,5196.0
+TXN-00871,2024-12-16,CUST-2826,SKU-002,Running Shoes,Footwear,East,Mobile App,Debit Card,5,1799.0,0.0,8995.0
+TXN-00398,2024-12-12,CUST-2608,SKU-006,Sunglasses,Accessories,West,Mobile App,Debit Card,2,799.0,0.2,1278.4
+TXN-00767,2024-12-02,CUST-1562,SKU-003,Yoga Mat,Sports,North,Marketplace,PayPal,3,649.0,0.05,1849.65
+TXN-00915,2024-11-22,CUST-4902,SKU-010,Laptop Stand,Electronics,Online,Mobile App,PayPal,2,749.0,0.2,1198.34
+TXN-00218,2024-08-11,CUST-1375,SKU-009,Water Bottle,Sports,South,Marketplace,Debit Card,2,349.0,0.2,-558.4
+TXN-00005,2024-06-21,CUST-1418,SKU-005,Backpack,Accessories,North,Marketplace,Credit Card,2,1099.0,0.0,2198.0
+TXN-00769,2024-11-30,CUST-1567,SKU-009,Water Bottle,Sports,Online,Mobile App,PayPal,2,349.0,0.0,698.0
+TXN-00643,2024-12-29,CUST-4045,SKU-005,Backpack,Accessories,N.,Website,Credit Card,2,1099.0,0.0,2198.0
+TXN-00965,2024-03-15,CUST-2309,SKU-003,Yoga Mat,Sports,West,Mobile App,Debit Card,5,649.0,0.0,3245.0
+TXN-00613,2024-12-13,CUST-4002,SKU-005,Backpack,Accessories,East,Marketplace,Bank Transfer,3,1099.0,0.0,3297.0
+TXN-00739,2024-01-04,CUST-2230,SKU-009,Water Bottle,Sports,South,Mobile App,Debit Card,2,349.0,0.0,698.0
+TXN-00547,2024-12-12,CUST-2280,SKU-005,Backpack,Accessories,,Website,Credit Card,3,1099.0,0.2,2637.6
+TXN-00726,2024-02-04,CUST-1179,SKU-002,Running Shoes,Footwear,South,Mobile App,Credit Card,5,1799.0,0.15,7645.75
+TXN-00986,2024-06-16,CUST-3022,SKU-009,Water Bottle,Sports,North,Marketplace,Debit Card,1,349.0,0.0,349.0
+TXN-00684,2024-12-10,CUST-3090,SKU-005,Backpack,Accessories,West,Marketplace,Credit Card,3,1099.0,0.0,3297.0
+TXN-00099,2024-12-25,CUST-2858,SKU-009,Water Bottle,Sports,East,In-Store,Debit Card,3,349.0,0.0,1047.0
+TXN-00805,2024-06-28,CUST-3295,SKU-007,Smart Watch,Electronics,South,Website,PayPal,1,4499.0,0.0,4499.0
+TXN-00728,2024-10-29,CUST-2048,SKU-009,Water Bottle,Sports,North,In-Store,PayPal,5,349.0,0.15,1483.25
+TXN-00574,2024-04-17,CUST-3556,SKU-009,Water Bottle,Sports,East,In-Store,PayPal,2,349.0,0.0,698.0
+TXN-00407,19/04/2024,CUST-2953,SKU-002,Running Shoes,Footwear,North,Mobile App,PayPal,1,1799.0,0.0,1799.0
+TXN-00503,2024-08-14,CUST-4170,SKU-004,Coffee Maker,Kitchen,EAST,In-Store,Bank Transfer,2,2999.0,0.0,5998.0
+TXN-00048,14-May-2024,CUST-1661,SKU-006,Sunglasses,Accessories,West,Marketplace,Credit Card,2,799.0,0.15,1358.3
+TXN-00033,2024-05-01,CUST-1681,SKU-009,Water Bottle,Sports,West,Marketplace,Bank Transfer,1,349.0,0.0,349.0
+TXN-00780,2024-10-01,,SKU-010,Laptop Stand,Electronics,North,Website,Bank Transfer,5,749.0,0.1,3370.57
+TXN-00840,2024-05-29,CUST-2597,SKU-003,Yoga Mat,Sports,Online,Marketplace,PayPal,4,649.0,0.1,2336.4
+TXN-00201,2024-03-18,CUST-4922,SKU-010,Laptop Stand,Electronics,,Marketplace,Credit Card,4,749.0,0.1,2696.34
+TXN-00135,2024-05-15,,SKU-002,Running Shoes,Footwear,Online,Marketplace,Credit Card,4,1799.0,0.2,5756.8
+TXN-00028,2024-05-04,CUST-4213,SKU-010,Laptop Stand,Electronics,West,Marketplace,PayPal,5,749.0,0.05,3557.71
+TXN-00947,2024-10-16,CUST-3984,SKU-010,Laptop Stand,Electronics,West,In-Store,Credit Card,2,749.0,0.2,1198.34
+TXN-00231,2024-06-07,CUST-3111,SKU-004,Coffee Maker,Kitchen,West,Marketplace,Debit Card,1,2999.0,0.0,199.99
+TXN-00490,2024-10-28,CUST-1931,SKU-009,Water Bottle,Sports,Online,Website,Bank Transfer,4,349.0,0.2,1116.8
+TXN-00773,14-Jan-2024,CUST-4122,SKU-002,Running Shoes,Footwear,Online,In-Store,PayPal,2,1799.0,0.0,3598.0
+TXN-00379,2024-12-26,CUST-4312,SKU-004,Coffee Maker,Kitchen,North,Website,PayPal,3,2999.0,0.2,7197.66
+TXN-00289,2024-11-26,CUST-1242,SKU-005,Backpack,Accessories,North,Mobile App,Credit Card,3,1099.0,0.0,3297.0
+TXN-00419,2024-02-04,CUST-1056,SKU-002,Running Shoes,Footwear,East,Mobile App,Credit Card,1,1799.0,0.1,1619.1
+TXN-00675,2024-04-17,CUST-2716,SKU-003,Yoga Mat,Sports,EAST,In-Store,Bank Transfer,4,649.0,0.05,-2466.2
+TXN-00392,2024-11-30,CUST-4077,SKU-007,Smart Watch,Electronics,South,In-Store,Credit Card,1,4499.0,0.15,3824.13
+TXN-00593,2024-09-17,CUST-2825,SKU-009,Water Bottle,Sports,West,Website,Debit Card,3,349.0,0.1,942.3
+TXN-00499,2024-09-05,CUST-3343,SKU-005,Backpack,Accessories,Online,Marketplace,Credit Card,4,1099.0,0.15,3736.6
+TXN-00139,2024-05-05,CUST-3175,SKU-006,Sunglasses,Accessories,West,Mobile App,PayPal,4,799.0,0.0,3196.0
+TXN-00063,2024-05-26,CUST-1860,SKU-009,Water Bottle,Sports,West,In-Store,Bank Transfer,1,349.0,0.0,349.0
+TXN-00472,2024-10-17,CUST-1132,SKU-010,Laptop Stand,Electronics,South,In-Store,PayPal,4,749.0,0.2,2396.83
+TXN-00648,2024-12-03,CUST-1487,SKU-007,Smart Watch,Electronics,South,Marketplace,PayPal,2,4499.0,0.2,7198.34
+TXN-00129,2024-10-27,CUST-3375,SKU-005,Backpack,Accessories,West,Mobile App,Bank Transfer,3,1099.0,0.2,2637.6
+TXN-00858,2024-05-26,CUST-2985,SKU-005,Backpack,Accessories,North,Mobile App,Credit Card,5,1099.0,0.0,5495.0
+TXN-00521,2024-08-31,CUST-4713,SKU-004,Coffee Maker,Kitchen,Est,In-Store,PayPal,5,2999.0,0.15,12745.79
+TXN-00839,2024-04-21,CUST-4346,SKU-008,Protein Powder,Health,South,Website,PayPal,1,599.0,0.0,599.0
+TXN-00362,2024-12-21,CUST-3592,SKU-006,Sunglasses,Accessories,West,Mobile App,Debit Card,3,799.0,0.15,2037.45
+TXN-00065,2024-11-20,CUST-3536,SKU-005,Backpack,Accessories,East,Website,PayPal,5,1099.0,0.15,4670.75
+TXN-00813,2024-06-06,CUST-3888,SKU-003,Yoga Mat,Sports,east,Website,Debit Card,5,649.0,0.0,3245.0
+TXN-00015,2024-04-22,CUST-1566,SKU-010,Laptop Stand,Electronics,Online,Marketplace,Credit Card,4,749.0,0.0,2996.0
+TXN-00157,2024-09-07,CUST-3521,SKU-007,Smart Watch,Electronics,West,In-Store,Credit Card,1,4499.0,0.2,3599.17
+TXN-00041,2024-03-08,,SKU-004,Coffee Maker,Kitchen,EAST,Marketplace,Debit Card,3,2999.0,0.05,8547.13
+TXN-00493,2024-04-18,CUST-4311,SKU-008,Protein Powder,Health,S.,Mobile App,Credit Card,2,599.0,0.0,1198.0
+TXN-00380,2024-08-22,CUST-1466,SKU-006,Sunglasses,Accessories,East,Marketplace,Debit Card,3,799.0,0.0,2397.0
+TXN-00188,2024-03-07,CUST-2557,SKU-008,Protein Powder,Health,Online,Mobile App,Debit Card,4,599.0,0.0,2396.0
+TXN-00764,2024-06-05,CUST-2366,SKU-001,Wireless Earbuds,Electronics,West,Marketplace,PayPal,2,1299.0,0.1,2338.17
+TXN-00217,2024-02-12,CUST-4125,SKU-009,Water Bottle,Sports,South,In-Store,Bank Transfer,1,349.0,0.0,349.0
+TXN-00922,2024-08-23,CUST-4514,SKU-005,Backpack,Accessories,Online,Website,Bank Transfer,2,1099.0,0.15,1868.3
+TXN-00792,2024-12-03,CUST-2948,SKU-004,Coffee Maker,Kitchen,West,Marketplace,Bank Transfer,2,2999.0,0.1,5398.17
+TXN-00053,2024-12-25,CUST-1442,SKU-005,Backpack,Accessories,West,Website,Bank Transfer,2,1099.0,0.2,1758.4
+TXN-00879,18-Jan-2024,CUST-1298,SKU-008,Protein Powder,Health,North,In-Store,Bank Transfer,3,599.0,0.0,1797.0
+TXN-00338,2024-09-14,CUST-4330,SKU-009,Water Bottle,Sports,West,Mobile App,Credit Card,3,349.0,0.0,1047.0
+TXN-00749,2024-01-26,CUST-3245,SKU-008,Protein Powder,Health,West,In-Store,Credit Card,5,599.0,0.15,2545.79
+TXN-00720,2024-12-22,,SKU-009,Water Bottle,Sports,South,Mobile App,Debit Card,3,349.0,0.1,942.3
+TXN-00725,2024-05-24,CUST-2321,SKU-009,Water Bottle,Sports,West,In-Store,Credit Card,2,349.0,0.1,628.2
+TXN-00296,2024-09-01,CUST-2325,SKU-002,Running Shoes,Footwear,SOUTH,Website,Debit Card,2,1799.0,0.0,3598.0
+TXN-00702,2024-04-06,CUST-4495,SKU-009,Water Bottle,Sports,North,Mobile App,PayPal,3,349.0,0.05,994.65
+TXN-00252,2024-03-25,CUST-1663,SKU-009,Water Bottle,Sports,East,Mobile App,Debit Card,2,349.0,0.0,698.0
+TXN-00727,2024-04-08,CUST-1404,SKU-004,Coffee Maker,Kitchen,North,Marketplace,Bank Transfer,1,2999.0,0.05,2849.04
+TXN-00462,2024-03-29,CUST-1721,SKU-010,Laptop Stand,Electronics,South,In-Store,Debit Card,4,749.0,0.0,2996.0
+TXN-00456,2024-10-08,CUST-2962,SKU-005,Backpack,Accessories,North,Website,Debit Card,4,1099.0,0.05,4176.2
+TXN-00271,2024-08-30,CUST-3127,SKU-003,Yoga Mat,Sports,West,Mobile App,PayPal,3,649.0,0.2,1557.6
+TXN-00816,2024-09-04,CUST-4706,SKU-008,Protein Powder,Health,Online,Mobile App,PayPal,5,599.0,0.0,2995.0
+TXN-00863,2024-08-13,CUST-3973,SKU-007,Smart Watch,Electronics,,Mobile App,Debit Card,2,4499.0,0.15,7648.26
+TXN-00270,2024-07-24,CUST-3048,SKU-004,Coffee Maker,Kitchen,North,Website,Credit Card,5,2999.0,0.1,13495.57
+TXN-00401,2024-09-30,CUST-2629,SKU-006,Sunglasses,Accessories,South,Marketplace,PayPal,1,799.0,0.2,639.2
+TXN-00202,2024-11-26,CUST-1706,SKU-006,Sunglasses,Accessories,North,Mobile App,Bank Transfer,1,799.0,0.1,719.1
+TXN-00162,2024-03-16,CUST-4230,SKU-004,Coffee Maker,Kitchen,Online,Website,Debit Card,3,2999.0,0.2,7197.66
+TXN-00556,2024-12-05,CUST-3770,SKU-004,Coffee Maker,Kitchen,West,Mobile App,Credit Card,4,2999.0,0.0,11996.0
+TXN-00730,2024-07-31,CUST-4367,SKU-001,Wireless Earbuds,Electronics,East,Website,Debit Card,3,1299.0,0.1,3507.26
+TXN-00402,2024-05-25,CUST-2383,SKU-008,Protein Powder,Health,Online,Mobile App,Bank Transfer,3,599.0,0.0,1797.0
+TXN-00703,2024-08-21,CUST-3530,SKU-005,Backpack,Accessories,West,In-Store,Bank Transfer,1,1099.0,0.15,934.15
+TXN-00477,2024-10-06,CUST-2537,SKU-008,Protein Powder,Health,North,Marketplace,PayPal,4,599.0,0.0,2396.0
+TXN-00822,03-21-2024,CUST-2120,SKU-002,Running Shoes,Footwear,North,Website,Credit Card,3,1799.0,0.0,5397.0
+TXN-00772,2024-06-04,CUST-2814,SKU-006,Sunglasses,Accessories,East,Mobile App,PayPal,4,799.0,0.05,3036.2
+TXN-00106,2024-12-17,CUST-1219,SKU-002,Running Shoes,Footwear,South,Mobile App,Debit Card,5,1799.0,0.15,7645.75
+TXN-00566,2024-07-28,CUST-1438,SKU-008,Protein Powder,Health,East,Mobile App,PayPal,2,599.0,0.2,958.34
+TXN-00390,2024-09-10,CUST-3251,SKU-008,Protein Powder,Health,Online,Website,Credit Card,5,599.0,0.15,2545.79
+TXN-00002,2024-08-04,CUST-1130,SKU-009,Water Bottle,Sports,North,Website,PayPal,1,349.0,0.1,314.1
+TXN-00583,2024-10-28,CUST-3238,SKU-004,Coffee Maker,Kitchen,Online,Mobile App,PayPal,3,2999.0,0.2,7197.66
+TXN-00829,2024-04-24,CUST-1588,SKU-008,Protein Powder,Health,Online,In-Store,Debit Card,4,599.0,0.0,2396.0
+TXN-00562,2024-12-01,CUST-3750,SKU-009,Water Bottle,Sports,West,In-Store,Debit Card,5,349.0,0.0,1745.0
+TXN-00932,2024-08-19,CUST-3543,SKU-009,Water Bottle,Sports,East,Website,PayPal,5,349.0,0.0,1745.0
+TXN-00081,2024-06-16,CUST-2382,SKU-006,Sunglasses,Accessories,West,In-Store,Bank Transfer,2,799.0,0.05,1518.1
+TXN-00206,2024-02-11,CUST-3386,SKU-010,Laptop Stand,Electronics,South,In-Store,Debit Card,2,749.0,0.0,1498.0
+TXN-00035,2024-12-22,CUST-4921,SKU-008,Protein Powder,Health,Online,Marketplace,PayPal,3,599.0,0.05,1707.13
+TXN-00943,2024-04-15,CUST-3303,SKU-005,Backpack,Accessories,North,In-Store,Debit Card,3,1099.0,0.0,-3297.0
+TXN-00776,2024-03-24,CUST-1791,SKU-008,Protein Powder,Health,South,Website,Bank Transfer,4,599.0,0.0,2396.0
+TXN-00509,16/08/2024,CUST-1727,SKU-006,Sunglasses,Accessories,West,In-Store,Debit Card,4,799.0,0.1,2876.4
+TXN-00428,2024-02-02,CUST-2077,SKU-007,Smart Watch,Electronics,Online,Website,Bank Transfer,3,4499.0,0.1,12147.26
+TXN-00455,2024-08-16,CUST-4618,SKU-003,Yoga Mat,Sports,South,Website,PayPal,3,649.0,0.0,1947.0
+TXN-00605,2024-10-02,CUST-3242,SKU-010,Laptop Stand,Electronics,North,In-Store,PayPal,5,749.0,0.05,3557.71
+TXN-00367,2024-12-20,CUST-2713,SKU-009,Water Bottle,Sports,Online,Website,Debit Card,5,349.0,0.2,1396.0
+TXN-00092,2024-06-14,CUST-4488,SKU-007,Smart Watch,Electronics,South,Website,Debit Card,5,4499.0,0.0,22495.0
+TXN-00340,2024-07-10,CUST-4929,SKU-005,Backpack,Accessories,West,Marketplace,PayPal,4,1099.0,0.0,4396.0
+TXN-00898,2024-03-09,CUST-1409,SKU-004,Coffee Maker,Kitchen,Online,Marketplace,PayPal,5,2999.0,0.0,14995.0
+TXN-00565,2024-07-10,CUST-3875,SKU-005,Backpack,Accessories,North,Website,PayPal,5,1099.0,0.1,4945.5
+TXN-00346,05-03-2024,CUST-3321,SKU-005,Backpack,Accessories,West,In-Store,Bank Transfer,2,1099.0,0.1,1978.2
+TXN-00777,2024-04-23,CUST-4040,SKU-001,Wireless Earbuds,Electronics,South,Mobile App,Credit Card,3,1299.0,0.05,3702.13
+TXN-00242,2024-02-28,CUST-1106,SKU-006,Sunglasses,Accessories,South,Marketplace,Bank Transfer,3,799.0,0.0,2397.0
+TXN-00014,2024-05-06,CUST-4051,SKU-003,Yoga Mat,Sports,Online,In-Store,Bank Transfer,3,649.0,0.0,1947.0
+TXN-00316,2024-10-03,CUST-1889,SKU-007,Smart Watch,Electronics,North,Mobile App,Debit Card,4,4499.0,0.0,0.0
+TXN-00601,2024-02-24,CUST-2187,SKU-002,Running Shoes,Footwear,East,Website,Debit Card,3,R1799.0,0.1,4857.3
+TXN-00388,15-Aug-2024,CUST-3001,SKU-008,Protein Powder,Health,South,Website,Credit Card,4,599.0,0.15,2036.66
+TXN-00274,12-10-2024,CUST-1448,SKU-001,Wireless Earbuds,Electronics,West,In-Store,Credit Card,3,1299.0,0.0,3897.0
+TXN-00167,2024-11-25,CUST-4948,SKU-009,Water Bottle,Sports,North,Website,Bank Transfer,3,349.0,0.05,-994.65
+TXN-00841,2024/10/18,CUST-4253,SKU-004,Coffee Maker,Kitchen,east,Marketplace,Debit Card,3,2999.0,0.0,8997.0
+TXN-00021,2024-01-10,CUST-1458,SKU-010,Laptop Stand,Electronics,East,In-Store,PayPal,3,749.0,0.05,2134.63
+TXN-00647,2024-10-11,CUST-2981,SKU-003,Yoga Mat,Sports,East,In-Store,Debit Card,3,649.0,0.1,1752.3
+TXN-00819,2024-10-31,CUST-4571,SKU-005,Backpack,Accessories,North,In-Store,Bank Transfer,1,1099.0,0.15,934.15
+TXN-00485,2024-03-28,CUST-3614,SKU-002,Running Shoes,Footwear,East,Website,Bank Transfer,1,1799.0,0.0,1799.0
+TXN-00358,2024-11-16,CUST-3030,SKU-006,Sunglasses,Accessories,Online,Mobile App,Bank Transfer,3,799.0,0.0,2397.0
+TXN-00505,2024-03-22,CUST-1268,SKU-001,Wireless Earbuds,Electronics,East,Marketplace,PayPal,5,1299.0,0.2,359.96
+TXN-00832,2024-10-21,CUST-1521,SKU-005,Backpack,Accessories,On-Line,Website,Bank Transfer,3,1099.0,0.1,2967.3
+TXN-00244,2024-03-10,CUST-4493,SKU-008,Protein Powder,Health,North,Marketplace,PayPal,2,599.0,0.0,1198.0
+TXN-00567,2024-08-22,CUST-4377,SKU-002,Running Shoes,Footwear,South,In-Store,Credit Card,4,1799.0,0.0,7196.0
+TXN-00876,2024-02-01,CUST-2567,SKU-002,Running Shoes,Footwear,West,In-Store,Credit Card,3,1799.0,0.2,4317.6
+TXN-00563,2024-08-20,CUST-2359,SKU-001,Wireless Earbuds,Electronics,online,Marketplace,Debit Card,2,1299.0,0.2,2078.34
+TXN-00507,2024-07-03,CUST-3886,SKU-001,Wireless Earbuds,Electronics,South,In-Store,Debit Card,4,1299.0,0.0,5196.0
+TXN-00687,2024-06-11,CUST-3674,SKU-006,Sunglasses,Accessories,East,In-Store,Bank Transfer,2,799.0,0.0,1598.0
+TXN-00958,2024-03-30,CUST-3276,SKU-007,Smart Watch,Electronics,WEST,Mobile App,PayPal,3,4499.0,0.05,12822.13
+TXN-00190,2024-10-20,CUST-2656,SKU-006,Sunglasses,Accessories,West,In-Store,Credit Card,5,799.0,0.05,3795.25
+TXN-00976,2024-08-08,CUST-1174,SKU-001,Wireless Earbuds,Electronics,South,Website,Credit Card,4,1299.0,20.0,4156.83
+TXN-00700,2024-08-11,CUST-2616,SKU-004,Coffee Maker,Kitchen,South,Mobile App,Bank Transfer,4,2999.0,10.0,10796.34
+TXN-00511,2024-10-19,CUST-4194,SKU-001,Wireless Earbuds,Electronics,South,Mobile App,PayPal,2,1299.0,0.2,2078.34
+TXN-00475,2024-12-20,CUST-1277,SKU-005,Backpack,Accessories,East,In-Store,Credit Card,2,1099.0,0.0,2198.0
+TXN-00857,18-Nov-2024,CUST-2938,SKU-010,Laptop Stand,Electronics,Online,Mobile App,Credit Card,3,749.0,0.0,2247.0
+TXN-00748,2024-07-20,CUST-1606,SKU-004,Coffee Maker,Kitchen,South,In-Store,Credit Card,4,2999.0,0.0,11996.0
+TXN-00253,2024-02-10,CUST-2026,SKU-009,Water Bottle,Sports,South,In-Store,PayPal,3,349.0,0.2,837.6
+TXN-00022,2024-02-10,CUST-1350,SKU-001,Wireless Earbuds,Electronics,West,Website,PayPal,2,1299.0,0.1,2338.17
+TXN-00460,29/08/2024,CUST-3168,SKU-005,Backpack,Accessories,East,Mobile App,PayPal,1,1099.0,0.2,879.2
+TXN-00277,2024-12-24,CUST-1450,SKU-004,Coffee Maker,Kitchen,South,Website,Bank Transfer,1,2999.0,0.1,2699.09
+TXN-00956,2024-02-14,CUST-1588,SKU-003,Yoga Mat,Sports,South,In-Store,Bank Transfer,5,649.0,0.1,2920.5
+TXN-00386,2024-06-10,CUST-4448,SKU-005,Backpack,Accessories,West,Website,Debit Card,2,1099.0,0.0,2198.0
+TXN-00806,2024/02/04,CUST-2260,SKU-005,Backpack,Accessories,East,In-Store,Credit Card,3,1099.0,0.2,2637.6
+TXN-00344,2024-05-18,CUST-1190,SKU-004,Coffee Maker,Kitchen,North,In-Store,Credit Card,5,2999.0,0.05,14245.21
+TXN-00770,2024-08-08,CUST-4723,SKU-005,Backpack,Accessories,South,Mobile App,Debit Card,5,1099.0,0.0,5495.0
+TXN-00131,2024-05-02,CUST-3342,SKU-006,Sunglasses,Accessories,WEST,Mobile App,Bank Transfer,2,799.0,0.15,1358.3
+TXN-00872,2024-01-13,CUST-3537,SKU-005,Backpack,Accessories,North,Website,PayPal,2,1099.0,0.0,2198.0
+TXN-00088,2024-10-16,CUST-4205,SKU-010,Laptop Stand,Electronics,North,In-Store,Bank Transfer,1,749.0,0.2,599.17
+TXN-00331,2024-08-01,CUST-2209,SKU-009,Water Bottle,Sports,South,Mobile App,Debit Card,5,R349.0,0.1,1570.5
+TXN-00467,2024-12-26,CUST-4756,SKU-001,Wireless Earbuds,Electronics,South,Website,Debit Card,2,1299.0,0.1,2338.17
+TXN-00122,2024-09-22,CUST-2481,SKU-007,Smart Watch,Electronics,Online,Marketplace,Bank Transfer,1,4499.0,0.0,4499.0
+TXN-00760,2024-12-22,CUST-3531,SKU-005,Backpack,Accessories,East,Website,Bank Transfer,2,1099.0,0.2,1758.4
+TXN-00861,2024-12-24,CUST-1967,SKU-003,Yoga Mat,Sports,West,Mobile App,Credit Card,3,649.0,0.2,1557.6
