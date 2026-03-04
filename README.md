@@ -164,7 +164,7 @@ Produced by **Nova Data Analytics** — a South African data analytics company h
 SMEs, NGOs, researchers, and public sector organisations make better decisions through
 cleaner, more reliable data.
 
-- **Website:** [yourwebsite.co.za](https://www.novadataanalytics.co.za/)
+- **Website:** [novadataanalytics.co.za/](https://www.novadataanalytics.co.za/)
 - **Email:** info@novadataanalytics.co.za
 - **LinkedIn:** [linkedin.com/company/novadataanalytics-coza](https://www.linkedin.com/company/novadataanalytics-coza)
 
